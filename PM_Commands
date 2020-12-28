@@ -1,0 +1,346 @@
+ prefix = '.' or '!'                   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ [Discord]: https://discord.gg/5DavKeK
+                                       █                                                        █
+                                       █                    Table Of Contents                   █
+                                       █                                                        █
+                                       █                    L5 - Normal User                    █
+                                       █                    L3 - Mod                            █
+                                       █                    L2 - Super Mod                      █
+                                       █                    L1 - Admin                          █
+                                       █                    L0 - Owner                          █
+                                       █                                                        █
+                                       █                                                        █
+                                       █                                                        █
+                                       █                                                        █
+                                       █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+ 
+              ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
+              │                                               L5 - Regular User                                           |
+              ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝
+ 
+(prefix)opme - Op yourself to desired level with key.
+ 
+              ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
+              │                                               L3 - Mod                                                    |
+              ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝
+ 
+(prefix)xo or (prefix)unbanall - Clears the banlist.
+ 
+(prefix)x (username) or (prefix)x or (prefix)unban (username) or (prefix)unban - Forgive target user or forgive the last person banned.
+ 
+(prefix)last - Plays the song of the last link posted in the chat. (Some people don't know how to use .yt)
+ 
+(prefix)bl (username) - Search the ban list for a banned user.
+ 
+(prefix)rmb (index number) - Forgive target user from ban list search.
+ 
+(prefix)bn (username) - Adds a username to the bad nicks file.
+ 
+(prefix)rmbn (username) - Removes a username from the bad nicks file.
+ 
+(prefix)bs (word) - Adds a word to the bad words file.
+ 
+(prefix)rmbs (word) - Removes a word from the bad words file.
+ 
+(prefix)ba (account name) - Adds an account to the bad accounts file.
+ 
+(prefix)rmba (account name) - Removes an account from the bad accounts file.
+ 
+(prefix)fn (username) - Adds an account to the fake nicks file.
+ 
+(prefix)rmfn (username) - Removes an account from the fake nicks file.
+ 
+(prefix)op (account) - Adds an account to the bot controller file. (Level 4)
+ 
+(prefix)rmop (account) - Removes an account from the bot controller file.
+ 
+(prefix)member (account) - Adds an account to the protected account file.
+ 
+(prefix)rmmember (account) - Removes an account from protected account file.
+ 
+(prefix)ignore (account) - Adds an account to the ignore file.
+ 
+(prefix)unignore (account) - Removes an account from the ignore file.
+ 
+(prefix)rmcb (username) - Removes username from the camblock file.
+ 
+(prefix)lvl (username) (level) - Makes user target level.
+ 
+(prefix)cam (username) - Approve broadcast for pending user.
+ 
+(prefix)noguest or (prefix)l - Toggles if guests are allowed.
+ 
+(prefix)guestnick - Toggles if guest nicks are allowed.
+ 
+(prefix)lurkers - Toggles if lurkers are allowed.
+ 
+(prefix)greet - Welcome message is turned on.
+ 
+(prefix)leave - User leave notification toggle.
+ 
+(prefix)pub - Allow/disallow public commands.
+ 
+(prefix)nick - Change the bots nickname.
+ 
+(prefix)kab - Kick as ban toggle.
+ 
+(prefix)kgn - Kick "guest-" nicks toggle.
+ 
+(prefix)kfn - Kick nicks that are most likely a copy of another users.
+ 
+(prefix)sab - Bans accounts that are too short, helpful when being spammed at times.
+ 
+(prefix)search - Youtube playlist search.
+ 
+(prefix)plp - Play Youtube playlist.
+ 
+(prefix)ssl - Show search list.
+ 
+(prefix)list (list) - lists ba, bn, bs, mods, owner, god, king, mod, botter, ignore, protect or p, camblock or cb, aa & an.
+ 
+(prefix)rs - Room settings.
+ 
+(prefix)yt (link or title) or (prefix)play (link or title) - Play a Youtube song.
+ 
+(prefix)mi - Shows details of what's currently playing. - Track title, Elapsed time, Time remaining, Playlist tracks and track index.
+ 
+(prefix)top - Last FM top 30.
+ 
+(prefix)ran - Last FM random tunes.
+ 
+(prefix)tag - Search Last FM by tag.
+ 
+(prefix)q or (prefix)queue - Playlist queue.
+ 
+(prefix)info or (prefix)playlist - Shows the next tracks in the playlist.
+ 
+(prefix)yts - Search youtube for a list of matching candidates.
+ 
+(prefix)s - Play a track from a previous youtube search list. * all the way up
+ 
+(prefix)next - Show the next song in the playlist.
+ 
+(prefix)now or (prefix)np - Show the song name of what's currently playing.
+ 
+(prefix)who or (prefix)wp - Shows who played this song.
+ 
+(prefix)replay - Replay the currently playing track.
+ 
+(prefix)pause - Pause current song.
+ 
+(prefix)play - Play the paused song.
+ 
+(prefix)seek - Time search a track.
+ 
+(prefix)songs - Show how many songs the background playlist has cycled through.
+ 
+(prefix).vote (ban, kick or close) (user) - Vote to ban, kick or close select user, 5 votes needed to pass on regulars and 7 on mods.
+ 
+(prefix)vote or yes - To vote in active vote session.
+ 
+(prefix)uinfo (username) - Shows info about a room user.
+ 
+(prefix)linfo - Shows info about the lists.
+ 
+(prefix)rinfo - Shows info about a room.
+ 
+(prefix)discord - Link to our Discord.
+ 
+(prefix)autotranslate or (prefix)autotrans - Auto-translate toggle on/off.
+ 
+(prefix)u - Shows how many people are in the room.
+ 
+(prefix)bu - Shows how many people are in the rooms ban list.
+ 
+(prefix)upt - Bot Up time.
+ 
+(prefix)uptime - Bot Up time.
+ 
+(prefix)v - Version info.
+ 
+(prefix)help - Makes the bot post a link to Bot Commands pastebin.
+ 
+(prefix)help+ - Makes the bot post a link to this page.
+ 
+(prefix)clr - Clears the chatbox.
+ 
+(prefix)spam - Clears the chatbox with hearts (Toxic/Cute) ♥♥
+ 
+(prefix)clear - Clears the chatbox with stars (Toxic/Cute) ★☆
+ 
+(prefix)n_n - AAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ 
+              ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
+              │                                               L2 -  Super Mod                                             |
+              ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝
+ 
+(prefix)timeout - Temporary ban, the bot will unban after 5 minutes. (Never punished)
+ 
+<3 or <3 (username) - Unbans last user or unbans target user, removes their nickname on bn & removes their account to ba.
+ 
+(prefix)kick or (prefix)k (username) - Kicks a user out of the room. (bait)
+ 
+(prefix)ban or (prefix)b (username) - Bans a user from the room. (bait)
+ 
+(prefix)close (username) - Closes a users broadcast. (bait)
+ 
+(prefix)mod (account) - Adds an account to the mod file. (Level 3)
+ 
+(prefix)rmmod (account) - Removes an account from the mod file.
+ 
+(prefix)wl (account) - Adds an account to the white list file.
+ 
+(prefix)rmwl (account) - Removes an account from the white list file.
+ 
+(prefix)cb or (prefix)camblock (username) - Adds username to the camblock file.
+ 
+(prefix)skip - Skips current song.
+ 
+(prefix)stop - Close the current song.
+ 
+(prefix)rm (number) or (prefix)del (number) - Remove a song from the playlist.
+ 
+(prefix)mute (account) - Adds an account to the mute account file. User is kicked if they type anything.
+ 
+(prefix)unmute (account) - Removes an account from the mute account file.
+ 
+(prefix)greet+ - Welcome message toggle on for protect -> owner accounts.
+ 
+(prefix)leave+ - Leave notification toggle on for protect -> owner accounts.
+ 
+              ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
+              │                                               L1 -  Admin                                                 |
+              ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝
+ 
+</3 (username) - Bans user, adds their nickname to bn & adds their account to ba.
+ 
+. (username) - Closes a users broadcast that works on all users.
+ 
+.. - Kick, works on all users.
+ 
+... - Ban, works on all users.
+ 
+(prefix)mod+ (account) - Adds this user to the mod list through room settings.
+ 
+(prefix)mod- (account) - Removes an account from the mod list.
+ 
+(prefix)bc+ (account) - Adds this user to the broadcaster featured list through room settings.
+ 
+(prefix)bc- (account) - Removes an account from the broadcaster featured list.
+ 
+(prefix)dir - Toggles whether the room shows on the directory.
+ 
+(prefix)p2t - Toggles if push to talk on/off.
+ 
+(prefix)email - Toggles Tinychat email notification on/off.
+ 
+(prefix)adult - Toggles to only allow accounts that have an age set of 18 years old or higher to enter.
+ 
+(prefix)gr - Toggles green room on/off.
+ 
+(prefix)roompass (password) - Toggles the rooms password.
+ 
+(prefix)campass (password) - Toggles the greenroom password.
+ 
+(prefix)gm - Toggles the rooms account setting to not allow guests.
+ 
+(prefix)twitter - Toggles if Twitter login is required to enter.
+ 
+(prefix)facebook - Toggles if Facebook login is required to enter.
+ 
+(prefix)king (account) - Adds an account to the king file. (Level 2)
+ 
+(prefix)rmking (account) - Removes an account from the king file.
+ 
+(prefix)cb+ - Toggles closing all users who try to broadcast who aren't moderator or bot operator.
+ 
+(prefix)cpl - Clear the playlist.
+ 
+              ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
+              │                                               L0 -  Owner                                                 |
+              ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝ 
+ 
+(prefix)kill - Kills the bot.
+ 
+(prefix)reboot - Reboots the bot.
+ 
+(prefix)on - Turns bot on.
+ 
+(prefix)off - Turns bot off.
+ 
+(prefix)pm (username) - PM desired user in the room.
+ 
+(prefix)say - Bot will say whatever you type in main chat.
+ 
+(prefix)owner (account) - Adds an account to the owner file. (Level 0)
+ 
+(prefix)rmowner (account) - Removes an account from the owner file.
+ 
+(prefix)god (account) - Adds an account to the god file. (Level 1)
+ 
+(prefix)rmgod (account) - Removes an account from the god file.
+ 
+(prefix)cbold - Console bold text toggle.
+ 
+(prefix)vip - Toggles if only accounts on the white list are allowed to enter.
+ 
+(prefix)consolewrite - Toggle bot console writing on/off
+ 
+(prefix)nazi - Toggles whether or not the bot demotes for mod abuse.
+ 
+(prefix)bansysmsg or (prefix)bans - Toggles whether or not the bot displays reasoning for ban within system messages.
+ 
+(prefix)console - Members and above chat messages are only written to console, everything else to logs.
+ 
+(prefix)nopms - Bans everyone who sends a private message to the bot if they aren't a member or higher.
+ 
+(prefix)ba+ - Adds an account string to the bad accounts file.
+ 
+(prefix)rmba+ - Removes an account string from the bad accounts file.
+ 
+(prefix)close+ - Closes all cams.
+ 
+(prefix)greetx - Greets n stuff. 8^)
+ 
+(prefix)clrwl - Clears white list file.
+ 
+(prefix)clrowner - Clear owner account file.
+ 
+(prefix)clrgod - Clear god account file.
+ 
+(prefix)clrking - Clear king account file.
+ 
+(prefix)clrmod - Clear mod account file.
+ 
+(prefix)clrop - Clear op account file.
+ 
+(prefix)clrmember - Clear protect account file.
+ 
+(prefix)clrignore - Clear ignore account file.
+ 
+(prefix)clrcb - Clear camblock nick file.
+ 
+(prefix)clrmute - Clear muted account file.
+ 
+(prefix)clrba - Clear bad account file.
+ 
+(prefix)clrbn - Clear bad nick file.
+ 
+(prefix)clrbs - Clear bad string file.
+ 
+(prefix)clrba+ - Clear bad accounts file.
+ 
+(prefix)clrfn - Clear fake nick file.
+ 
+(prefix)clrreports - Clear reports file.
+ 
+(prefix)clraccount - Clear account list file.
+ 
+(prefix)clrnick - Clear nick list file.   
+ 
+(prefix)g - Clear Globals.
+ 
+(prefix)pm (username) - PM Bridge. 
+ 
+(prefix)say (msg) - Say desired message in main chat.   
+ 
+(prefix)key - Create a new bot key.
