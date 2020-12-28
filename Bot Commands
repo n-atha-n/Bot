@@ -1,0 +1,708 @@
+prefix = '.' or '!'                   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ [Discord]: https://discord.gg/5DavKeK
+                                      █                                                        █
+                                      █                    Table Of Contents                   █
+                                      █                                                        █
+                                      █                    L5 - Normal User                    █
+                                      █                    L4.5 - Member                       █
+                                      █                    L4 - Op                             █
+                                      █                    L3 - Mod                            █
+                                      █                    L2 - Super Mod                      █
+                                      █                    L1 - Admin                          █
+                                      █                    L0 - Owner                          █
+                                      █                                                        █
+                                      █                                                        █
+                                      █                                                        █
+                                      █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+ 
+              ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
+              │                                               L5 -  Normal User                                           |
+              ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝
+ 
+(prefix)yt (link or title) or (prefix)play (link or title) - Play a Youtube song.
+ 
+(prefix)skip or (prefix)stop - Allows a user to skip their song, but only their songs if not mod.
+ 
+(prefix)tokes or .toke or .dab (1-30) - Call tokes for you and your buds.
+ 
+(prefix)join - Join the current tokes session.
+ 
+(prefix)help - Makes the bot post a link to this page.
+ 
+(prefix)halp - Makes the bot post a link to PM Bot commands.
+ 
+(prefix)duel (username) (bet) - Dice duel vs desired user for gold.
+ 
+(prefix)blackjack (bet) or (prefix)bj (bet) - Starts a Blackjack hand vs. the dealer.
+ 
+(prefix)hit - Have the dealer give you a card for the ongoing hand.
+ 
+(prefix)stand - Ends your ongoing hand and dealer draws.
+ 
+(prefix)double - Double your bet and draw a single card, ending turn.
+ 
+(prefix)split - Split two initial cards with the same value.
+ 
+(prefix)splithit - Dealers gives you a card on your secondary hand.
+ 
+(prefix)splitstand - End betting on your first and second hand.
+ 
+(prefix)splitdouble - Double the bet, drawing a single card to your second hand before ending.
+ 
+(prefix)surrender - Surrender hand and be given 1/2 of your initial bet.
+ 
+(prefix)insurance - Dealer face card == [A]ce, you can make an side bet. (1/2 initial bet they have blackjack.)
+ 
+(prefix)gamble (bet) - Random slot machine from the following choices..
+ 
+(prefix)slots (bet) - Slot Machine. x100 = "🃏". x50 = "🍋". x40 = "🍏". x30 = "🍓". x20 = "🍒". x10 = "🍊". x5 = "🍇"
+ 
+(prefix)sluts (bet) - Slut slot machine. x100 = "👵". x50 = "👧🏿". x40 = "👧🏾". x30 = "👧🏽". x20 = "👧🏼". x10 = "👧🏻". x5 = "👧"
+ 
+(prefix)apes (bet) - Ape slot machine. x100 = "🦍". x50 = "🐒". x40 = "🐵". x30 = "🙊". x20 = "🙉". x10 = "🙈". x5 = "🍌"
+ 
+(prefix)cats (bet) - Cat slot machine. x100 = "🦁". x50 = "🐯". x40 = "🐆". x30 = "🐱". x20 = "🐈". x10 = "🧶". x5 = "🐾"
+ 
+(prefix)dogs (bet) - Dog slot machine. x100 = "🐺". x50 = "🦊". x40 = "🐶". x30 = "🐕". x20 = "🐩". x10 = "🦴". x5 = "🐾"
+ 
+(prefix)aquatic (bet) - Aquatic slot machine. x100 = "🐙". x50 = "🐳". x40 = "🦈". x30 = "🐬". x20 = "🐠". x10 = "🐡". x5 = "🐟"
+ 
+(prefix)birds (bet) - Bird slot machine. x100 = "🐧". x50 = "🦅". x40 = "🦢". x30 = "🦚". x20 = "🦜". x10 = "🦉". x5 = "🦆"
+ 
+(prefix)trivia (category) - Trivia questions and answers. To view current list, type (prefix)trivia categories
+ 
+(prefix)vote (ban, kick or close) (user) - Vote to ban, kick or close select user, 5 votes needed to pass on regulars and 7 on mods.
+ 
+(prefix)vote or yes - To vote in active vote session.
+ 
+(prefix)cooldown or (prefix)cd - Shows your YouTube cool down time.
+ 
+(prefix)q or (prefix)queue - Playlist queue.
+ 
+(prefix)next - Show the next song in the playlist.
+ 
+(prefix)now or (prefix)np - Show the song name of what's currently playing.
+ 
+(prefix)who or (prefix)wp - Shows who played this song.
+ 
+(prefix)numberduel or (prefix)numduel (username) - Number duel vs desired user. (1-1000)
+ 
+(prefix)pokemonduel or (prefix)pokeduel (username) - Pokemon duel vs desired user. Random Pokemon is chosen for both participating.
+ 
+(prefix)explore - Search the area for a chance at finding a Pokemon or item.
+ 
+(prefix)storage - See how many items and collected Pokemon.
+ 
+(prefix)utc - Coordinated Universal Time display. (Most online games reset at 00:00 UTC)
+ 
+(prefix)hug (user) - Gives this user a hug, daw.
+ 
+(prefix)drinks (1-60) - Call drinks for you and the lads.
+ 
+(prefix)cheers - Cheers! ^_^
+ 
+(prefix)u - Shows how many people are in the room.
+ 
+(prefix)bu - Shows how many people are in the rooms ban list.
+ 
+(prefix)suicide - Goodbye, friend. ((Ban yourself) JOKE!)
+ 
+(prefix)ft or .feet - Feet to centimeter.
+ 
+(prefix)cm or .centimeter - Centimeter to feet.
+ 
+(prefix)kg or (prefix)kilogram - Kilograms to pounds.
+ 
+(prefix)lb or (prefix)pound - Pounds to kilograms.
+ 
+(prefix)c or (prefix)celsius  - Celsius to Fahrenheit.
+ 
+(prefix)f or (prefix)fahrenheit - Fahrenheit to Celsius.
+ 
+(prefix)m or (prefix)mile -  Miles to kilometers.
+ 
+(prefix)km or (prefix)kilometer - Kilometers to miles.
+ 
+(prefix)spy (room name) - Shows status of a room, mods get to see a little more.
+ 
+(prefix)acspy (account) - Shows status of a tinychat account.
+ 
+(prefix)urb (search term) - Finds a definition of a search term on urbandictionary.
+ 
+(prefix)wea or (prefix)wx or (prefix)weather (city, state(country)) - Shows weather data for a given city.
+ 
+(prefix)ip (ip address or domain) - Traces given IP or domain.
+ 
+(prefix)cn - Finds a random Chuck Norris quote/joke.
+ 
+(prefix)8ball (yes or no question) - Magic eight ball answers to yes/no questions.
+ 
+(prefix)joke - Some funny and REALLY shitty jokes.
+ 
+(prefix)advice - Helpful words of advice to get you through life.
+ 
+(prefix)namemydick - Pet name for your dick.
+ 
+(prefix)superpower - Generates a random superpower.
+ 
+(prefix)pimp - Shenanigans during your pimp adventures.
+ 
+(prefix)pokemon - Generates a random Pokemon.
+ 
+(prefix)food (item) - Gives you a food recipe for desired target.
+ 
+(prefix)roll - Roll the die.
+ 
+(prefix)d20 - Rolls a 20 sided die.
+ 
+(prefix)flip - Flip a coin.
+ 
+(prefix)time (Location) - Gives the time for desired location.
+ 
+(prefix)rate (user) - Rate target user.
+ 
+(prefix)ddos (user) - DDoS target user.
+ 
+(prefix)jew (user) - Jew detector on target user.
+ 
+(prefix)drug (user, self) - Random drug.
+ 
+(prefix)tip (user) - Tip target user.
+ 
+(prefix)trump (user) - Trump target user with a loan.
+ 
+(prefix)savage (user, self) - Check your savage level.
+ 
+(prefix)catgif - Random catgif is generated for you.
+ 
+(prefix)best - Check to see if you are the best.
+ 
+(prefix)timer (1-60) 1-60 minute timer.
+ 
+(prefix)sex (user) - You have sex with this user. ;]
+ 
+(prefix)pat (user) - Pats target user on head.
+ 
+(prefix)hodor - HODOR!!!
+ 
+(prefix)kill (user) - You kill target user. DIEDIEDIEDIE
+ 
+(prefix)random - Random number 1-1000.
+ 
+(prefix)v - Version info.
+ 
+(prefix)upt - Bot Up time.
+ 
+(prefix)uptime - Bot Up time.
+ 
+(prefix)pm - Bot will PM you.
+ 
+              ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
+              │                                               L4.5 -  Member                                              |
+              ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝
+------------------------------------------------------------ Random Events ------------------------------------------------------------
+*Random Events use no prefix.
+ 
+Genie - A Genie will appear in the chat every so often. The first user to type 'genie' will obtain the Genie's Lamp they have to !lamp skill choice. Choices: Slayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Hunter or Crafting.
+ 
+Master of Trades - A Master of Trades will appear in the chat every so often. The first user to type 'book' will obtain his Book of Knowledge | they then have to !book skill choice. Choices: Slayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Hunter or Crafting.
+ 
+Devil's Heart - A Devil's Heart has fallen upon the chat room! The first user to type 'heart' in the chatbox will obtain the Devil's Heart to consume! | they then have to !consume skill choice. Choices: Slayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Hunter or Crafting.
+ 
+Rainbow - A rainbow will appear in the chat every so often. The first user to type 'gold' will loot the Pot of Gold at the end of it! They will loot it for a random amount of gold.
+ 
+Flying Money - Flying Money will randomly appearing in the chat. The first user to type 'money' will obtain it and be given a random amount of gold.
+ 
+Moneybag - A Moneybag slips open every now and then. The first member to type 'loot' will loot what fell out! They will loot it for a random amount of gold.
+ 
+Shooting Star - A Shooting Star will appear overhead every so often. The first user to type 'star' will obtain the Star Fragments! Star Fragments are then smashed with the command !smash for a random amount of Shards or Gold if user has Infinity Shard.
+ 
+Hell's Comet - Hell's Comet will appear overheard every so often. The first user to type 'comet' will obtain the Hell's Comet Fragments! Fragments are then broken with the command !break for a random amount of Shards or Gold if user has Infinity Shard.
+ 
+Hell's Galaxy - Something crashes into Hell's Galaxy allowing the first user to type 'galaxy' to obtain the Hell's Galaxy Debris! !crush for a random amount of Shards or Gold if user has Infinity Shard.
+ 
+Treasure Chest - A Treasure Chest will appear in the chat every so often. The first user to type 'key' will receive the Treasure Key to open it!
+Once key obtained; typing !chest will unlock it and you will receive a random item.
+ 
+(Seasonal Event) Santa's Gift - Santa appears flying overhead and the first user to type "santa" in the chat will obtain Santa's Gift. After obtaining Santa's gift the user then types !gift and opens it.
+ 
+Dropped Items - If a player leaves the room without using one or more of the following items in Inventory: [Instant Youtube, Instant Blackjack, Star Fragments, Hell's Comet Fragments, Genie's Lamp, Book & Treasure Key], they will be dropped in the chatbox where any Member can type 'take' to obtain them.
+ 
+Skill Assist - A player is able to be assisted in the skill they are working on! The first user to type 'assist' in the chatbox within 60 seconds will assist them and earn XP in their skill!
+ 
+Skill Rest - A Player has grown tired skilling and must type 'rest' in the chatbox within 60 seconds to avoid fatigue which results in an XP loss.
+ 
+---------------------------------------------------------------------------------------------------------------------------------------
+(prefix)mi or (prefix)ytinfo - Shows details of what's currently playing. - Track title, Elapsed time, Time remaining, Playlist tracks and track index.
+
+(prefix)info or (prefix)playlist or (prefix)pl - Shows the next tracks in the playlist.
+
+(prefix)afk (username) - Gives target user a time based off user level to type in the chat or they get closed once time is up. (with store item purchase)
+ 
+(prefix)seen - Shows the last time a user was seen typing or broadcasting.
+ 
+(prefix)afking - Set an AFK message for your !seen display. Your AFK message will display once you're idle for 15 minutes.
+ 
+(prefix)votes - Shows how many required votes for a normal vote to pass and a moderator vote to pass at that exact moment. Very Idle users and guests are not counted when voting!
+ 
+(prefix)stats or (prefix)stats (username) - Shows your stats or stats of desired user.
+ 
+(prefix)gold or (prefix)gold (username) - Shows your gold or gold of desired user.
+ 
+(prefix)trade (username) (gold) - Trade desired user target amount of gold.
+ 
+(prefix)login - Logs you into the GAME ! The Bot will PM you once you are logged in and ready to GO. (Every join)
+ 
+(prefix)style (target) or (prefix)attackstyle (target) - View current style or swap to another. Melee, Ranged or Magic !
+ 
+(prefix)total (username)(skill)/none or (prefix)level (username)(skill)/none - View stats of yourself, users or target skill !
+ 
+(prefix)rank or (prefix)ranks - Skill Choices: Prayer, Slayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking Fletching, Hunter or Crafting. Ranks 1-3 will display in selected category. Each rank having a title upon entrance.
+ 
+(prefix)boss - Join the ongoing boss fight if you have the required slayer level.
+ 
+(prefix)slayer - Get a random Slayer task & complete.
+ 
+(prefix)fish - Start Fishing highest tier.
+ 
+(prefix)cook - Start Cooking highest tier.
+ 
+(prefix)mine - Start Mining highest tier.
+ 
+(prefix)smith - Start Smithing highest tier.
+ 
+(prefix)cut - Start Woodcutting highest tier.
+ 
+(prefix)firemake - Start Firemaking highest tier.
+ 
+(prefix)fletch - Start Fletching highest tier.
+ 
+(prefix)hunt - Get a random Hunter assignment & complete.
+ 
+(prefix)craft - Start Crafting highest tier.
+ 
+(prefix)active - Check your active skill being trained. Enhanced Active store purchase will display more if bought! Displays your skill elapsed time & time of skill completion.
+ 
+(prefix)task - View your slayer info !
+ 
+(prefix)shards (username)/none - Check how many shards you or target user have. Shards are used to train skills !
+ 
+(prefix)inventory or (prefix)inv - View your inventory or another players!
+ 
+(prefix)lamp - If you have a Genie's Lamp you can use it in a skill choice. Choices: Prayer, Slayer, Fishing, Cooking, Mining, Smithing,  Woodcutting, Firemaking Fletching, Hunter or Crafting.
+ 
+(prefix)book - If you have a Book of Knowledge you can use it in a skill choice. Choices: Prayer, Slayer, Fishing, Cooking, Mining, Smithing,  Woodcutting, Firemaking Fletching, Hunter or Crafting.
+ 
+(prefix)consume - If you have a Devil's Heart you can use it in a skill choice. Choices: Prayer, Slayer, Fishing, Cooking, Mining, Smithing,  Woodcutting, Firemaking Fletching, Hunter or Crafting.
+ 
+(prefix)smash - If you have Star Fragments you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (1-10)
+ 
+(prefix)break - If you have Hell's Comet Fragments you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (10-20)
+ 
+(prefix)crush - If you have Hell's Galaxy Debris you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (1-50)
+ 
+(prefix)chest - If you have a Treasure Key you can use it and receive a random item.
+ 
+(prefix)gift - If you have a Santa's Gift you can use this command to open it and obtain the gifts!
+ 
+(prefix)quests - Check quests (Earn 99K per Level 99 upon confirmation & 1337K for Max)! (PM Bot you hit 99)
+ 
+- * - Note - * -
+Damage - These skills involve fighting in Combat - Attack, Strength, Defence, Ranged, Magic & Prayer
+Gathering - These skills involve gathering raw materials (resources) directly from the source. - Fishing, Mining, Woodcutting & Hunter.
+Artisan - These skills involve using resource items to create other, generally more useful items. - Cooking, Smithing, Firemaking, Fletching & Crafting.
+Survivalist - These skills help the player in various different ways. Slayer & Bossing.
+Luck - Chance at a special drop from a Boss Fight. Strong Potion Set, Auto-Rest (1) hour, Instant Blackjack, Instant YouTube & Treasure Key.
+Focus - Chance to swing first in PvP
+Endurance - Chance to dodge an attack in PvP
+- * - | - * -
+ 
+(prefix)shop or (prefix)buy - View the shop categories by typing no target. If target in Categories: [Cooldown, Potion, Weapons, Cape, Necklace, Glove, Ring, Helmet, Armor, Boot, Auto & Misc] If target is a number(item) within one of the categories you will attempt to purchase.
+ 
+1. Instant YouTube 50K - Ability to add a single track to the queue without having to wait on a YouTube Cooldown! (Lose upon leaving!)
+2. Instant Blackjack 25K - Ability to play a single hand without having to wait on a Blackjack Cooldown!  (Lose upon leaving!)
+3. Weak Damage Potion - 5% damage to bosses and 5% faster Slayer tasks. (Expires in target hour(s))
+4. Medium Damage Potion - 10% damage to bosses and 10% faster Slayer tasks. (Expires in target hour(s))
+5. Strong Damage Potion - 20% damage to bosses and 20% faster Slayer tasks. (Expires in target hour(s))
+6. Weak Gatherer Potion - 5% faster Gathering skills while active. (Expires in target hour(s))
+7. Medium Gatherer Potion - 10% faster Gathering skills while active. ((Expires in target hour(s))
+8. Strong Gatherer Potion - 20% faster Gathering skills while active. (Expires in target hour(s))
+9. Weak Artisan Potion - 5% faster Artisan skills while active. (Expires in target hour(s))
+10. Medium Artisan Potion - 10% faster Artisan skills while active. (Expires in target hour(s))
+11. Strong Artisan Potion - 20% faster Artisan skills while active. (Expires in target hour(s))
+12. Weak Survivalist Potion - 5% faster Survivalist skills while active. (Expires in target hour(s))
+13. Medium Survivalist Potion - 10% faster Survivalist skills while active. (Expires in target hour(s))
+14. Strong Survivalist Potion - 20% faster Survivalist skills while active. (Expires in target hour(s))
+15. Hunter Bow 5M - 5% Damage (Kept in Inventory)
+16. Rapier 5M - 5% Damage (Kept in Inventory)
+17. Staff of Darkness 5M - 5% Damage (Kept in Inventory)
+18. Hand Cannon 10M - 10% Damage (Kept in Inventory)
+19. Devil's Whip 10M - 10% Damage (Kept in Inventory)
+20. Abyssal Wand 10M - 10% Damage (Kept in Inventory)
+21. Hellfire Bow 20M - 20% Damage (Kept in Inventory)
+22. Reaper Scythe 20M - 20% Damage (Kept in Inventory)
+23. Staff of Skulls 20M - 20% Damage (Kept in Inventory)
+24. Lava Cape 5M - 5% Gathering (Kept in Inventory)
+25. Spirit Cape 10M - 10% Gathering (Kept in Inventory)
+26. Devil's Cape 20M - 20% Gathering (Kept in Inventory) (Must be 99 everything to buy!)
+27. Demon Horn Necklace 5M - 5% Artisan (Kept in Inventory)
+28. Reaper Necklace 10M - 10% Artisan (Kept in Inventory)
+29. Soul Necklace 20M - 20% Artisan (Kept in Inventory) (Must be 99 everything to buy!)
+30. Safety Gloves 5M - 5% Survivalist (Kept in Inventory)
+31. Tracking Gloves 10M - 10% Survivalist (Kept in Inventory)
+32. Nightmare Gloves 20M - 20% Survivalist (Kept in Inventory) (Must be 99 everything to buy!)
+33. Twisted Ring 5M - 5% Luck (Kept in Inventory)
+34. Ring of Death 10M - 10% Luck (Kept in Inventory)
+35. Ring of Souls 20M - 20% Luck (Kept in Inventory)
+36. Shadow Mask 5M - 5% Focus (Kept in Inventory)
+37. Obsidian Faceguard 10M - 10% Focus (Kept in Inventory)
+38. Helmet of Sacrifice 20M - 20% Focus (Kept in Inventory)
+39. Skeletal Armor 5M - 5% Armor (Kept in Inventory)
+40. Death Lotus Robes 10M - 10% Armor (Kept in Inventory)
+41. Lucifer's Shroud 20M - 20% Armor (Kept in Inventory)
+42. Eternal Boots 5M - 5% Endurance (Kept in Inventory)
+43. Ragefire Boots 10M - 10% Endurance (Kept in Inventory)
+44. Boots of Torment 20M - 20% Endurance (Kept in Inventory)
+45. Auto-Login 25M - Auto-logged in upon joining.
+46. Anti-Auto-Ignore - Auto-Ignore avoidance. (Expires in target hour(s))
+47. Auto-Smasher - Auto-Smashes all Shooting Stars, Hell's Comet & Hell's Galaxy instantly obtain obtaining. (Expires in target hour(s))
+48. Auto-Skill - Will continue training your initial skill called. (Expires in target hour(s)) (Must be 99 everything to buy!)
+49. Auto-Boss - Will join any Boss Fight that appears. (Expires in target hour(s))
+50. Auto-Rest - Auto-Rest (Expires in target hour(s))
+51. Shard (amount) 1K each - Used to train skills.
+52. Infinity Shard 5M - Used to train skills. (Never ending shards)
+53. Bone (amount) 2.3K each & + 1.5K Prayer XP each - Upon purchase you instantly gain Prayer XP. (99 Required for PvP!)
+54. AFK 10K - Allows you to AFK a user.
+55. Anti-AFK 50k - 1 hour of AFK avoidance.
+56. Enhanced Active - Enhanced Active which displays your tasks length and elapsed time. (Expires in target hour(s))
+57. Featured Broadcaster 1M - 1 Hour of Featured Broadcaster. (YouTube sized camera)
+58. DJ Status 2M - 24 hours of no YouTube Cooldowns.
+59. Extended Task 2M - Your slayer tasks size are always 250. (Must be 99 everything to buy!)
+60. Joined/Left-Emoji 2.5M - An emoji next to your 'joined the room' or 'left the room' message. Please contact an administrator with your emoji choice and message choice (joined/left) and give up to 24H to apply. (Cannot be a bot role emoji(Fire, Star, M, Diamond, Crown, Smiling Imp))
+ 
+              ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
+              │                                               L4 -  Op                                                    |
+              ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝
+ 
+(prefix)afk (username) - Gives target user a time based off user level to type in the chat or they get closed once time is up.
+ 
+(prefix)skip - Skips current song.
+ 
+(prefix)pause - Pause current song.
+ 
+(prefix)play - Play the paused song.
+ 
+(prefix)stop - Close the current song.
+ 
+(prefix)rm (number) or (prefix)del (number) - Remove a song from the playlist.
+ 
+(prefix)info or (prefix)playlist - Shows the next tracks in the playlist.
+ 
+(prefix)link - Shows the current video's YouTube URL.
+ 
+(prefix)replay - Replay the currently playing track.
+ 
+(prefix)seek - Time search a track.
+ 
+(prefix)yts - Search youtube for a list of matching candidates.
+ 
+(prefix)s - Play a track from a previous youtube search list.
+ 
+(prefix)songs - Show how many songs the background playlist has cycled through.
+ 
+(prefix)clr - Clears the chatbox.
+ 
+(prefix)spam - Clears the chatbox with hearts (Toxic/Cute) ♥♥
+ 
+(prefix)clear - Clears the chatbox with stars (Toxic/Cute) ★☆
+ 
+(prefix)n_n - AAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ 
+(prefix)discord - Link to our Discord.
+ 
+(prefix)uinfo (username) - Shows info about a room user.
+ 
+(prefix)linfo - Shows info about the lists.
+ 
+(prefix)rinfo - Shows info about a room.
+ 
+(prefix)stats (user) - Shows the wins and losses of desired user, which is lost upon refresh.
+ 
+(prefix)porn - Generates a random porno. Nice.
+ 
+(prefix)ddg (Search term) - Duck Duck go search.
+ 
+(prefix)ety (word) - Etymology search.
+ 
+(prefix)define (word) - Definition of target word.
+ 
+(prefix)translate (words) - Translates to English.
+ 
+(prefix)stfu - You NEED to SHUT THE FUCK UP.
+ 
+              ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
+              │                                               L3 - Mod                                                    |
+              ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝
+ 
+(prefix)kick or (prefix)k (username) - Kicks a user out of the room. (Punishable if NAZI is True)
+ 
+(prefix)ban or (prefix)b (username) - Bans a user from the room. (Punishable if NAZI is True)
+ 
+(prefix)close (username) - Closes a users broadcast. (Punishable if NAZI is True)
+ 
+(prefix)dick (username) - Bans a user waiting in the green room or on cam without demotion when Nazi Mode is on.
+ 
+(prefix)xo or (prefix)unbanall - Clears the banlist.
+ 
+(prefix)x (username) or (prefix)x or (prefix)unban (username) or (prefix)unban - Forgive target user or forgive the last person banned.
+ 
+(prefix)last / (prefix)yt -last - Plays the song of the last link posted in the chat. (Some people don't know how to use .yt)
+ 
+(prefix)bl (username) - Search the ban list for a banned user.
+ 
+(prefix)rmb (index number) - Forgive target user from ban list search.
+ 
+(prefix)bn (username) - Adds a username to the bad nicks file.
+ 
+(prefix)rmbn (username) - Removes a username from the bad nicks file.
+ 
+(prefix)bs (word) - Adds a word to the bad words file.
+ 
+(prefix)rmbs (word) - Removes a word from the bad words file.
+ 
+(prefix)ba (account name) - Adds an account to the bad accounts file.
+ 
+(prefix)rmba (account name) - Removes an account from the bad accounts file.
+ 
+(prefix)fn (username) - Adds an account to the fake nicks file.
+ 
+(prefix)rmfn (username) - Removes an account from the fake nicks file.
+ 
+(prefix)op (account) - Adds an account to the bot controller file. (Level 4)
+ 
+(prefix)rmop (account) - Removes an account from the bot controller file.
+ 
+(prefix)member (account) - Adds an account to the protected account file.
+ 
+(prefix)rmmember (account) - Removes an account from protected account file.
+ 
+(prefix)ignore (account) - Adds an account to the ignore file.
+ 
+(prefix)unignore (account) - Removes an account from the ignore file.
+ 
+(prefix)cb or (prefix)camblock (username) - Adds username to the camblock file.
+ 
+(prefix)rmcb (username) - Removes username from the camblock file.
+ 
+(prefix)lvl (username) (level) - Makes user target level.
+ 
+(prefix)cam (username) - Approve broadcast for pending user.
+ 
+(prefix)noguest or (prefix)l - Toggles if guests are allowed.
+ 
+(prefix)guestnick - Toggles if guest nicks are allowed.
+ 
+(prefix)lurkers - Toggles if lurkers are allowed.
+ 
+(prefix)greet - Welcome message is turned on.
+ 
+(prefix)leave - User leave notification toggle.
+ 
+(prefix)pub - Allow or disallow public commands.
+ 
+(prefix)nick - Change the bots nickname.
+ 
+(prefix)kab - Kick as ban toggle.
+ 
+(prefix)kgn - Kick "guest-" nicks toggle.
+ 
+(prefix)kfn - Kick nicks that are most likely a copy of another users.
+ 
+(prefix)sab - Bans accounts that are too short, helpful when being spammed at times.
+ 
+(prefix)cpl - Clear the playlist.
+ 
+(prefix)search - Youtube playlist search.
+ 
+(prefix)plp - Play Youtube playlist.
+ 
+(prefix)ssl - Show search list.
+ 
+(prefix)list - lists .ba, etc.
+ 
+(prefix)rs - Room settings.
+ 
+(prefix)top - Last FM top 30.
+ 
+(prefix)ran - Last FM random tunes.
+ 
+(prefix)tag - Search Last FM by tag.
+ 
+(prefix)track - Play a random song from the bot internal playlist.
+ 
+(prefix)autotranslate or (prefix)autotran  - Auto-Translate toggle on/off.
+ 
+(prefix)announce (time) (message) - Announce a message to the room every 1-60 minutes.
+ 
+(prefix)announce (prefix) - Clear the ongoing announcement; Must wait until your cleared announcement would have finished before next.
+ 
+(prefix)announcement - View the current announcement message, how often it is displayed & the announcer of said message.
+ 
+(prefix)clrblackjack or (prefix)clrbj - Clears the ongoing hand to start a new round. To be used when dunce doesn't finish hand.
+ 
+              ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
+              │                                               L2 -  Super Mod                                             |
+              ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝
+ 
+(prefix)timeout - Temporary ban, the bot will unban after 5 minutes. (Never punished)
+ 
+<3 or <3 (username) - Unbans last user or unbans target user, removes their nickname on bn & removes their account to ba.
+ 
+(prefix)mod (account) - Adds an account to the mod file. (Level 3)
+ 
+(prefix)rmmod (account) - Removes an account from the mod file.
+ 
+(prefix)wl (account) - Adds an account to the white list file.
+ 
+(prefix)rmwl (account) - Removes an account from the white list file.
+ 
+(prefix)mute (account) - Adds an account to the mute account file. User is kicked if they type anything.
+ 
+(prefix)unmute (account) - Removes an account from the mute account file.
+ 
+(prefix)greet+ - Welcome message toggle on for protect -> owner accounts.
+ 
+(prefix)leave+ - Leave notification toggle on for protect -> owner accounts.
+ 
+(prefix)recaptcha - Toggles if users can solve a reCAPTCHA code to cam themselves within 1 minute.
+ 
+              ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
+              │                                               L1 -  Admin                                                 |
+              ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝
+ 
+</3 (username) - Bans user, adds their nickname to bn & adds their account to ba.
+ 
+. (username) - Closes a users broadcast that works on all users.
+ 
+.. - Kick, works on all users.
+ 
+... - Ban, works on all users.
+ 
+(prefix)mod+ (account) - Adds this user to the mod list through room settings.
+ 
+(prefix)mod- (account) - Removes an account from the mod list.
+ 
+(prefix)bc+ (account) - Adds this user to the broadcaster featured list through room settings.
+ 
+(prefix)bc- (account) - Removes an account from the broadcaster featured list.
+ 
+(prefix)dir - Toggles whether the room shows on the directory.
+ 
+(prefix)p2t - Toggles if push to talk on/off.
+ 
+(prefix)email - Toggles Tinychat email notification on/off.
+ 
+(prefix)adult - Toggles to only allow accounts that have an age set of 18 years old or higher to enter.
+ 
+(prefix)gr - Toggles green room on/off.
+ 
+(prefix)roompass (password) - Toggles the rooms password.
+ 
+(prefix)campass (password) - Toggles the greenroom password.
+ 
+(prefix)gm - Toggles the rooms account setting to not allow guests.
+ 
+(prefix)twitter - Toggles if Twitter login is required to enter.
+ 
+(prefix)facebook - Toggles if Facebook login is required to enter.
+ 
+(prefix)supermod (account) - Adds an account to the super mod file. (Level 2)
+ 
+(prefix)rmsupermod (account) - Removes an account from the super mod file.
+ 
+(prefix)cb+ - Toggles closing all users who try to broadcast who aren't moderator or bot operator.
+ 
+              ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
+              │                                               L0 -  Owner                                                 |
+              ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝ 
+ 
+(prefix)kill - Kills the bot.
+ 
+(prefix)reboot - Reboots the bot.
+ 
+(prefix)on - Turns bot on.
+ 
+(prefix)off - Turns bot off.
+ 
+(prefix)owner (account) - Adds an account to the owner file. (Level 0)
+ 
+(prefix)rmowner (account) - Removes an account from the owner file.
+ 
+(prefix)admin (account) - Adds an account to the admin account file. (Level 1)
+ 
+(prefix)rmadmin (account) - Removes an account from the admin account file.
+ 
+(prefix)cbold - Console bold text toggle.
+ 
+(prefix)vip - Toggles if only accounts on the white list are allowed to enter.
+ 
+(prefix)nazi - Toggles whether or not the bot demotes for mod abuse.
+ 
+(prefix)bansysmsg or (prefix)bans - Toggles whether or not the bot displays reasoning for ban within system messages.
+ 
+(prefix)music - Plays background music whilst nothing queued up.
+ 
+(prefix)chat - Toggles members only chat. Anyone typing in the chat who is not a member+ will be banned.
+ 
+(prefix)console - Members and above chat messages are only written to console, everything else to logs.
+ 
+(prefix)nopms - Bans everyone who sends a private message to the bot if they aren't a member or higher.
+ 
+(prefix)ba+ - Adds an account string to the bad accounts file.
+ 
+(prefix)rmba+ - Removes an account string from the bad accounts file.
+ 
+(prefix)close+ - Closes all cams.
+ 
+(prefix)greetx - Greets n stuff. 8^)
+ 
+(prefix)clrwl - Clears white list file.
+ 
+(prefix)clrowner - Clear owner account file.
+ 
+(prefix)clradmin - Clear god account file.
+ 
+(prefix)clrsupermod - Clear super mod account file.
+ 
+(prefix)clrmod - Clear mod account file.
+ 
+(prefix)clrop - Clear op account file.
+ 
+(prefix)clrmember - Clear member account file.
+ 
+(prefix)clrignore - Clear ignore account file.
+ 
+(prefix)clrcb - Clear camblock nick file. 
+ 
+(prefix)clrmute - Clear muted account file.
+ 
+(prefix)clrba - Clear bad account file.
+ 
+(prefix)clrbn - Clear bad nick file.
+ 
+(prefix)clrbs - Clear bad string file.
+ 
+(prefix)clrba+ - Clear bad accounts file.
+ 
+(prefix)clrfn - Clear fake nick file.
+ 
+(prefix)clrreports - Clear reports file. 
+ 
+(prefix)clraccount - Clear account list file.
+ 
+(prefix)clrnick - Clear nick list file.
+ 
+(prefix)g - Clear Globals.
+ 
+(prefix)add (username) (gold) or (prefix)give (username) (gold) - Give desired username however much gold.
+ 
+(prefix)subtract (username) (gold) or (prefix)take (username) (gold) - Take desired amount of gold from a user.
