@@ -202,11 +202,11 @@ prefix = '.' or '!'                   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ------------------------------------------------------------ Random Events ------------------------------------------------------------
 *Random Events use no prefix.
  
-Genie - A Genie will appear in the chat every so often. The first user to type 'genie' will obtain the Genie's Lamp they have to !lamp skill choice. Choices: Slayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Hunter or Crafting.
+Genie - A Genie will appear in the chat every so often. The first user to type 'genie' will obtain the Genie's Lamp they have to !lamp skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
  
-Master of Trades - A Master of Trades will appear in the chat every so often. The first user to type 'book' will obtain his Book of Knowledge | they then have to !book skill choice. Choices: Slayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Hunter or Crafting.
+Master of Trades - A Master of Trades will appear in the chat every so often. The first user to type 'book' will obtain his Book of Knowledge | they then have to !book skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
  
-Devil's Heart - A Devil's Heart has fallen upon the chat room! The first user to type 'heart' in the chatbox will obtain the Devil's Heart to consume! | they then have to !consume skill choice. Choices: Slayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Hunter or Crafting.
+Devil's Heart - A Devil's Heart has fallen upon the chat room! The first user to type 'heart' in the chatbox will obtain the Devil's Heart to consume! | they then have to !consume skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
  
 Rainbow - A rainbow will appear in the chat every so often. The first user to type 'gold' will loot the Pot of Gold at the end of it! They will loot it for a random amount of gold.
  
@@ -256,29 +256,39 @@ Skill Rest - A Player has grown tired skilling and must type 'rest' in the chatb
  
 (prefix)total (username)(skill)/none or (prefix)level (username)(skill)/none - View stats of yourself, users or target skill !
  
-(prefix)rank or (prefix)ranks - Skill Choices: Prayer, Slayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking Fletching, Hunter or Crafting. Ranks 1-3 will display in selected category. Each rank having a title upon entrance.
+(prefix)rank or (prefix)ranks - Skill Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving. Ranks 1-3 will display in selected category. Each rank having a title upon entrance.
  
+(prefix)fishing or (prefix)fish - Start Fishing highest tier.
+ 
+(prefix)cooking or (prefix)cook - Start Cooking highest tier.
+ 
+(prefix)mining or (prefix)mine - Start Mining highest tier.
+ 
+(prefix)smithing or (prefix)smith - Start Smithing highest tier.
+ 
+(prefix)woodcutting or (prefix)woodcut or (prefix)cut - Start Woodcutting highest tier.
+ 
+(prefix)firemaking or (prefix)firemake - Start Firemaking highest tier.
+ 
+(prefix)fletching or (prefix)fletch - Start Fletching highest tier.
+
+(prefix)construction or (prefix)construct or (prefix)build - Start Constructing highest tier.
+ 
+(prefix)hunter or (prefix)hunt - Get a random Hunter assignment & complete.
+ 
+(prefix)crafting or (prefix)craft - Start Crafting highest tier.
+
+(prefix)farming or (prefix)farm - Start Farming highest tier.
+
+(prefix)herblore or (prefix)herb - Start making highest tier Herblore Potion.
+
+(prefix)slayer or (prefix)slay - Get a random Slayer task & complete.
+
+(prefix)agility or (prefix)agile - Start running highest tier Agility course.
+
+(prefix)thieving or (prefix)thieve or (prefix)thief - Start thieving highest tier.
+
 (prefix)boss - Join the ongoing boss fight if you have the required slayer level.
- 
-(prefix)slayer - Get a random Slayer task & complete.
- 
-(prefix)fish - Start Fishing highest tier.
- 
-(prefix)cook - Start Cooking highest tier.
- 
-(prefix)mine - Start Mining highest tier.
- 
-(prefix)smith - Start Smithing highest tier.
- 
-(prefix)cut - Start Woodcutting highest tier.
- 
-(prefix)firemake - Start Firemaking highest tier.
- 
-(prefix)fletch - Start Fletching highest tier.
- 
-(prefix)hunt - Get a random Hunter assignment & complete.
- 
-(prefix)craft - Start Crafting highest tier.
  
 (prefix)active - Check your active skill being trained. Enhanced Active store purchase will display more if bought! Displays your skill elapsed time & time of skill completion.
  
@@ -288,11 +298,11 @@ Skill Rest - A Player has grown tired skilling and must type 'rest' in the chatb
  
 (prefix)inventory or (prefix)inv - View your inventory or another players!
  
-(prefix)lamp - If you have a Genie's Lamp you can use it in a skill choice. Choices: Prayer, Slayer, Fishing, Cooking, Mining, Smithing,  Woodcutting, Firemaking Fletching, Hunter or Crafting.
+(prefix)lamp - If you have a Genie's Lamp you can use it in a skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
  
-(prefix)book - If you have a Book of Knowledge you can use it in a skill choice. Choices: Prayer, Slayer, Fishing, Cooking, Mining, Smithing,  Woodcutting, Firemaking Fletching, Hunter or Crafting.
+(prefix)book - If you have a Book of Knowledge you can use it in a skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
  
-(prefix)consume - If you have a Devil's Heart you can use it in a skill choice. Choices: Prayer, Slayer, Fishing, Cooking, Mining, Smithing,  Woodcutting, Firemaking Fletching, Hunter or Crafting.
+(prefix)consume - If you have a Devil's Heart you can use it in a skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
  
 (prefix)smash - If you have Star Fragments you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (1-10)
  
