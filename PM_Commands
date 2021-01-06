@@ -1,4 +1,4 @@
- prefix = '.' or '!'                   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ [Discord]: https://discord.gg/5DavKeK
+  prefix = '.' or '!'                   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ [Discord]: https://discord.gg/5DavKeK
                                        █                                                        █
                                        █                    Table Of Contents                   █
                                        █                                                        █
@@ -18,6 +18,8 @@
               ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝
  
 (prefix)opme - Op yourself to desired level with key.
+
+(prefix)rps (choice) - Choose between Rock, Paper or Scissors if dueling.
  
               ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
               │                                               L3 - Mod                                                    |
