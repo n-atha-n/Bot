@@ -29,8 +29,18 @@ prefix = '.' or '!'                   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 (prefix)help - Makes the bot post a link to this page.
  
 (prefix)halp - Makes the bot post a link to PM Bot commands.
+
+(prefix)vote (ban, kick or close) (user) - Vote to ban, kick or close select user, 5 votes needed to pass on regulars and 7 on mods.
+ 
+(prefix)vote or yes - To vote in active vote session.
  
 (prefix)duel (username) (bet) - Dice duel vs desired user for gold.
+
+(prefix)rps (username) (bet) - Rock Paper Scissors Duel vs desired user for gold.
+
+accept - Accept the Dice or Rock Paper Scissors Duel.
+
+decline - Decline the Dice or Rock Paper Scissors Duel.
  
 (prefix)blackjack (bet) or (prefix)bj (bet) - Starts a Blackjack hand vs. the dealer.
  
@@ -69,10 +79,6 @@ prefix = '.' or '!'                   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 (prefix)birds (bet) - Bird slot machine. x100 = "🐧". x50 = "🦅". x40 = "🦢". x30 = "🦚". x20 = "🦜". x10 = "🦉". x5 = "🦆"
  
 (prefix)trivia (category) - Trivia questions and answers. To view current list, type (prefix)trivia categories
- 
-(prefix)vote (ban, kick or close) (user) - Vote to ban, kick or close select user, 5 votes needed to pass on regulars and 7 on mods.
- 
-(prefix)vote or yes - To vote in active vote session.
  
 (prefix)cooldown or (prefix)cd - Shows your YouTube cool down time.
  
