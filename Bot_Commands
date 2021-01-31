@@ -228,6 +228,10 @@ Hell's Galaxy - Something crashes into Hell's Galaxy allowing the first user to 
  
 Treasure Chest - A Treasure Chest will appear in the chat every so often. The first user to type 'key' will receive the Treasure Key to open it!
 Once key obtained; typing !chest will unlock it and you will receive a random item.
+
+Unlimited YouTube - First user to type 'youtube' in the chat will be able to add as many desired tracks within 5 minutes.
+
+Unlimited Blackjack - First user to type 'blackjack' in the chat will be able to play as many Blackjack hands as they can within 5 minutes.
  
 (Seasonal Event) Santa's Gift - Santa appears flying overhead and the first user to type "santa" in the chat will obtain Santa's Gift. After obtaining Santa's gift the user then types !gift and opens it.
  
@@ -724,3 +728,11 @@ Endurance - Chance to dodge an attack in PvP
 (prefix)add (username) (gold) or (prefix)give (username) (gold) - Give desired username however much gold.
  
 (prefix)subtract (username) (gold) or (prefix)take (username) (gold) - Take desired amount of gold from a user.
+
+(prefix)fix (username) - Removes a user from the current task they are on; in case of a bot issue.
+
+(prefix)open - Opens last link on my browser that was posted in the chat.
+
+(prefix)edit (account) - Edit class data for various objects within it.
+
+(prefix)replace (account) - Replaces a users account within game files with a new account. Too many chatters forget their passwords & demand me to go through 50 files to replace their account. Normally would take 30 minutes to do each user & bot needed to be offline to do it.
