@@ -249,9 +249,9 @@
  
 (prefix)facebook - Toggles if Facebook login is required to enter.
  
-(prefix)king (account) - Adds an account to the king file. (Level 2)
+(prefix)supermod (account) - Adds an account to the super mod file. (Level 2)
  
-(prefix)rmking (account) - Removes an account from the king file.
+(prefix)rmsupermod (account) - Removes an account from the super mod file.
  
 (prefix)cb+ - Toggles closing all users who try to broadcast who aren't moderator or bot operator.
  
@@ -277,9 +277,9 @@
  
 (prefix)rmowner (account) - Removes an account from the owner file.
  
-(prefix)god (account) - Adds an account to the god file. (Level 1)
+(prefix)admin (account) - Adds an account to the admin account file. (Level 1)
  
-(prefix)rmgod (account) - Removes an account from the god file.
+(prefix)rmadmin (account) - Removes an account from the admin account file.
  
 (prefix)cbold - Console bold text toggle.
  
@@ -307,15 +307,15 @@
  
 (prefix)clrowner - Clear owner account file.
  
-(prefix)clrgod - Clear god account file.
+(prefix)clradmin - Clear god account file.
  
-(prefix)clrking - Clear king account file.
+(prefix)clrsupermod - Clear super mod account file.
  
 (prefix)clrmod - Clear mod account file.
  
 (prefix)clrop - Clear op account file.
  
-(prefix)clrmember - Clear protect account file.
+(prefix)clrmember - Clear member account file.
  
 (prefix)clrignore - Clear ignore account file.
  
