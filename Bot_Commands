@@ -252,7 +252,7 @@ Skill Rest - A Player has grown tired skilling and must type 'rest' in the chatb
  
 (prefix)afking - Set an AFK message for your !seen display. Your AFK message will display once you're idle for 15 minutes.
 
-(prefix)status - Set up to a (100) character custom status that shows upon room entrance.
+(prefix)status - Set up to a (100) character custom status that shows upon room entrance and departure.
  
 (prefix)votes - Shows how many required votes for a normal vote to pass and a moderator vote to pass at that exact moment. Very Idle users and guests are not counted when voting!
 
