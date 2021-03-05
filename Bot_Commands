@@ -583,8 +583,6 @@ Endurance - Chance to dodge an attack in PvP
  
 (prefix)timeout - Temporary ban, the bot will unban after 5 minutes. (Never punished)
  
-<3 or <3 (username) - Unbans last user or unbans target user, removes their nickname on bn & removes their account to ba.
- 
 (prefix)mod (account) - Adds an account to the mod file. (Level 3)
  
 (prefix)rmmod (account) - Removes an account from the mod file.
@@ -606,7 +604,9 @@ Endurance - Chance to dodge an attack in PvP
               ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
               │                                               L1 -  Admin                                                 |
               ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝
- 
+
+<3 or <3 (username) - Unbans last user or unbans target user, removes their nickname on bn & removes their account to ba.
+
 </3 (username) - Bans user, adds their nickname to bn & adds their account to ba.
  
 . (username) - Closes a users broadcast that works on all users.
