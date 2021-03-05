@@ -332,9 +332,9 @@ Skill Rest - A Player has grown tired skilling and must type 'rest' in the chatb
  
 - * - Note - * -
 Damage - These skills involve fighting in Combat - Attack, Strength, Defence, Ranged, Magic & Prayer
-Gathering - These skills involve gathering raw materials (resources) directly from the source. - Fishing, Mining, Woodcutting & Hunter.
-Artisan - These skills involve using resource items to create other, generally more useful items. - Cooking, Smithing, Firemaking, Fletching & Crafting.
-Survivalist - These skills help the player in various different ways. Slayer & Bossing.
+Gathering - These skills involve gathering raw materials (resources) directly from the source. - Fishing, Mining, Woodcutting, Hunter & Farming.
+Artisan - These skills involve using resource items to create other, generally more useful items. - Cooking, Smithing, Firemaking, Fletching, Construction, Crafting, Herblore.
+Survivalist - These skills help the player in various different ways. Slayer, Agility & Thieving.
 Luck - Chance at a special drop from a Boss Fight. Strong Potion Set, Auto-Rest (1) hour, Instant Blackjack, Instant YouTube & Treasure Key.
 Focus - Chance to swing first in PvP
 Endurance - Chance to dodge an attack in PvP
