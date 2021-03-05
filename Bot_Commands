@@ -444,6 +444,8 @@ Endurance - Chance to dodge an attack in PvP
 (prefix)n_n - AAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
  
 (prefix)discord - Link to our Discord.
+
+(prefix)stfu - You NEED to SHUT THE FUCK UP.
  
 (prefix)uinfo (username) - Shows info about a room user.
  
@@ -462,8 +464,8 @@ Endurance - Chance to dodge an attack in PvP
 (prefix)define (word) - Definition of target word.
  
 (prefix)translate (words) - Translates to English.
- 
-(prefix)stfu - You NEED to SHUT THE FUCK UP.
+
+(prefix)translation (language) (words) - Translates English to desired language.
  
               ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
               │                                               L3 - Mod                                                    |
