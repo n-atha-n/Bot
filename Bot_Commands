@@ -220,11 +220,11 @@ Flying Money - Flying Money will randomly appearing in the chat. The first user 
  
 Moneybag - A Moneybag slips open every now and then. The first member to type 'loot' will loot what fell out! They will loot it for a random amount of gold.
  
-Shooting Star - A Shooting Star will appear overhead every so often. The first user to type 'star' will obtain the Star Fragments! Star Fragments are then smashed with the command !smash for a random amount of Shards or Gold if user has Infinity Shard.
+Shooting Star - A Shooting Star will appear overhead every so often. The first user to type 'star' will obtain the Star Fragments! Star Fragments are then smashed with the command !star for a random amount of Shards or Gold if user has Infinity Shard.
  
-Hell's Comet - Hell's Comet will appear overheard every so often. The first user to type 'comet' will obtain the Hell's Comet Fragments! Fragments are then broken with the command !break for a random amount of Shards or Gold if user has Infinity Shard.
+Hell's Comet - Hell's Comet will appear overheard every so often. The first user to type 'comet' will obtain the Hell's Comet Fragments! Fragments are then broken with the command !comet for a random amount of Shards or Gold if user has Infinity Shard.
  
-Hell's Galaxy - Something crashes into Hell's Galaxy allowing the first user to type 'galaxy' to obtain the Hell's Galaxy Debris! !crush for a random amount of Shards or Gold if user has Infinity Shard.
+Hell's Galaxy - Something crashes into Hell's Galaxy allowing the first user to type 'galaxy' to obtain the Hell's Galaxy Debris! !galaxy for a random amount of Shards or Gold if user has Infinity Shard.
  
 Treasure Chest - A Treasure Chest will appear in the chat every so often. The first user to type 'key' will receive the Treasure Key to open it!
 Once key obtained; typing !chest will unlock it and you will receive a random item.
