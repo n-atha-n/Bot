@@ -318,11 +318,11 @@ Skill Rest - A Player has grown tired skilling and must type 'rest' in the chatb
  
 (prefix)consume - If you have a Devil's Heart you can use it in a skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
  
-(prefix)smash - If you have Star Fragments you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (1-10)
+(prefix)star - If you have Star Fragments you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (1-10)
  
-(prefix)break - If you have Hell's Comet Fragments you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (10-20)
+(prefix)comet - If you have Hell's Comet Fragments you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (10-20)
  
-(prefix)crush - If you have Hell's Galaxy Debris you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (1-50)
+(prefix)galaxy - If you have Hell's Galaxy Debris you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (1-50)
  
 (prefix)chest - If you have a Treasure Key you can use it and receive a random item.
  
