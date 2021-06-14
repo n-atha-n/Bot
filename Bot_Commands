@@ -208,32 +208,63 @@ decline - Decline the Dice or Rock Paper Scissors Duel.
 ------------------------------------------------------------ Random Events ------------------------------------------------------------
 *Random Events use no prefix.
  
-Genie - A Genie will appear in the chat every so often. The first user to type 'genie' will obtain the Genie's Lamp they have to !lamp skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+Genie - A Genie will appear in the chat every so often. The first user to type 'genie' will obtain the Genie's Lamp they have to !genie skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
  
 Master of Trades - A Master of Trades will appear in the chat every so often. The first user to type 'book' will obtain his Book of Knowledge | they then have to !book skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
  
-Devil's Heart - A Devil's Heart has fallen upon the chat room! The first user to type 'heart' in the chatbox will obtain the Devil's Heart to consume! | they then have to !consume skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
- 
+Devil's Heart - A Devil's Heart has fallen upon the chat room! The first user to type 'heart' in the chatbox will obtain the Devil's Heart to consume! | they then have to !heart skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+
+Frozen Lamp - Sunlight shines down and reflects lights off a Frozen Lamp! The first user to type 'frozen' in the chatbox will obtain the Frozen Lamp! | they then have to !frozen skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+
+Smouldering Lamp - Hell's Volcano has erupted and a Smouldering Lamp has appeared! The first user to type 'volcano' in the chatbox will obtain the Smouldering Lamp! | they then have to !volcano skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+
+Crystal Lamp - An Alien appeared offering a Crystal Lamp! The first user to type 'alien' in the chatbox will obtain the Crystal Lamp! | they then have to !alien skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+
 Rainbow - A rainbow will appear in the chat every so often. The first user to type 'gold' will loot the Pot of Gold at the end of it! They will loot it for a random amount of gold.
  
 Flying Money - Flying Money will randomly appearing in the chat. The first user to type 'money' will obtain it and be given a random amount of gold.
  
 Moneybag - A Moneybag slips open every now and then. The first member to type 'loot' will loot what fell out! They will loot it for a random amount of gold.
+
+Hell's Bank - Hell's bank is being robbed! The first member to type 'bank' in the chatbox will join the heist! They will loot it for a random amount of gold.
+
+Airdrop - There is an incoming Airdrop! The first member to type 'airdrop' in the chatbox will obtain it! They will loot it for a random amount of gold.
+
+Diamond - A Diamond has been spotted! The first member to type 'diamond' in the chatbox will obtain it! They will loot it for a random amount of gold.
  
 Shooting Star - A Shooting Star will appear overhead every so often. The first user to type 'star' will obtain the Star Fragments! Star Fragments are then smashed with the command !star for a random amount of Shards or Gold if user has Infinity Shard.
  
 Hell's Comet - Hell's Comet will appear overheard every so often. The first user to type 'comet' will obtain the Hell's Comet Fragments! Fragments are then broken with the command !comet for a random amount of Shards or Gold if user has Infinity Shard.
  
 Hell's Galaxy - Something crashes into Hell's Galaxy allowing the first user to type 'galaxy' to obtain the Hell's Galaxy Debris! !galaxy for a random amount of Shards or Gold if user has Infinity Shard.
+
+Asteroid Cyclone - An Asteroid Cyclone has developed in Hell's Galaxy! The first member to type 'cyclone' in the chatbox will obtain the Asteroid Cyclone Debris! !cyclone for a random amount of Shards or Gold if user has Infinity Shard.
+
+Hell's Rocket - There is an upcoming Hell's Rocket launching! The first member to type 'rocket' in the chatbox will obtain the Hell's Rocket Pass! !rocket for a random amount of Shards or Gold if user has Infinity Shard.
+
+Saturn - Saturn Debris has been spotted overhead! The first member to type 'saturn' in the chatbox will obtain the Saturn Debris! !saturn for a random amount of Shards or Gold if user has Infinity Shard.
  
-Treasure Chest - A Treasure Chest will appear in the chat every so often. The first user to type 'key' will receive the Treasure Key to open it!
-Once key obtained; typing !chest will unlock it and you will receive a random item.
+Treasure Chest - A Treasure Chest appears. The first user to type 'treasure' will receive the Treasure Key to open it. !treasure will unlock it and you will receive a random item.
+
+Haunted Chest - A Haunted Chest appears. The first user to type 'haunted' will receive the Haunted Key to open it. !haunted will unlock it and you will receive a random item.
+
+Sunken Chest - A Sunken Chest appears. The first user to type 'sunken' will receive the Sunken Key to open it. !sunken will unlock it and you will receive a random item.
+
+Magic Chest - A Magic Chest appears. The first user to type 'magic' will receive the Magic Key to open it. !magic will unlock it and you will receive a random item.
+
+Crystal Chest - A Crystal Chest appears. The first user to type 'crystal' will receive the Crystal Key to open it. !crystal will unlock it and you will receive a random item.
+
+Devil's Chest - A Devil's Chest appears. The first user to type 'devil' will receive the Devil's Key to open it. !devil will unlock it and you will receive a random item.
 
 Unlimited YouTube - First user to type 'youtube' in the chat will be able to add as many desired tracks within 5 minutes.
 
 Unlimited Blackjack - First user to type 'blackjack' in the chat will be able to play as many Blackjack hands as they can within 5 minutes.
+
+(Seasonal Event) Easter Egg - The Easter Bunny has been spotted! The first member to type 'bunny' in the chatbox will receive the Easter Egg! After obtaining the Easter Egg the user then types !egg and opens it.
+
+(Seasonal Event) Halloween Treat - A piece of candy has been spotted! The first member to type 'treat' will obtain it!  After obtaining the Halloween Treat the user then types !treat and consumes it.
  
-(Seasonal Event) Santa's Gift - Santa appears flying overhead and the first user to type "santa" in the chat will obtain Santa's Gift. After obtaining Santa's gift the user then types !gift and opens it.
+(Seasonal Event) Santa - Santa appears flying overhead and the first user to type "santa" in the chat will obtain Santa's Gift. After obtaining Santa's gift the user then types !gift and opens it.
  
 Dropped Items - If a player leaves the room without using one or more of the following items in Inventory: [Instant Youtube, Instant Blackjack, Star Fragments, Hell's Comet Fragments, Genie's Lamp, Book & Treasure Key], they will be dropped in the chatbox where any Member can type 'take' to obtain them.
  
@@ -312,19 +343,45 @@ Skill Rest - A Player has grown tired skilling and must type 'rest' in the chatb
  
 (prefix)inventory or (prefix)inv - View your inventory or another players!
  
-(prefix)lamp - If you have a Genie's Lamp you can use it in a skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+(prefix)genie - If you have a Genie's Lamp you can use it in a skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
  
 (prefix)book - If you have a Book of Knowledge you can use it in a skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
  
-(prefix)consume - If you have a Devil's Heart you can use it in a skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+(prefix)heart - If you have a Devil's Heart you can use it in a skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+
+(prefix)frozen - If you have a Frozen Lamp you can use it in a skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+
+(prefix)volcano - If you have a Smouldering Lamp you can use it in a skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+
+(prefix)alien - If you have a Crystal Lamp you can use it in a skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
  
 (prefix)star - If you have Star Fragments you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (1-10)
  
-(prefix)comet - If you have Hell's Comet Fragments you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (10-20)
+(prefix)comet - If you have Hell's Comet Fragments you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (10-25)
  
-(prefix)galaxy - If you have Hell's Galaxy Debris you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (1-50)
+(prefix)galaxy - If you have Hell's Galaxy Debris you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (10-50)
+
+(prefix)cyclone - If you have Asteroid Cyclone Debris you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (10-75)
+
+(prefix)rocket - If you have Hell's Rocket Pass you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (10-100)
+
+(prefix)saturn - If you have Saturn Debris you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (25-100)
  
-(prefix)chest - If you have a Treasure Key you can use it and receive a random item.
+(prefix)treasure - If you have a Treasure Key you can use it and receive a random item.
+
+(prefix)haunted - If you have a Haunted Key you can use it and receive a random item.
+
+(prefix)sunken - If you have a Sunken Key you can use it and receive a random item.
+
+(prefix)magic - If you have a Magic Key you can use it and receive a random item.
+
+(prefix)crystal - If you have a Crystal Key you can use it and receive a random item.
+
+(prefix)devil - If you have a Devil's Key you can use it and receive a random item.
+
+(prefix)egg - If you have an Easter Egg you can use this command to open it and obtain the gifts!
+
+(prefix)treat - If you have a Halloween Treat you can use this command to open it and obtain the gifts!
  
 (prefix)gift - If you have a Santa's Gift you can use this command to open it and obtain the gifts!
  
