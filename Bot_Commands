@@ -296,10 +296,14 @@ Skill Rest - A Player has grown tired skilling and must type 'rest' in the chatb
 (prefix)trade (username) (gold) - Trade desired user target amount of gold.
  
 (prefix)login - Logs you into the GAME ! The Bot will PM you once you are logged in and ready to GO. (Every join)
+
+(prefix)style (target) or (prefix)attackstyle (target) - View current style or swap to another. Melee, Ranged or Magic!
  
-(prefix)style (target) or (prefix)attackstyle (target) - View current style or swap to another. Melee, Ranged or Magic !
+(prefix)skill - Toggle use your Infinity Auto-Skill after you start training a skill you are 126 in!
+
+(prefix)xp (skill) - Toggle your Infinity Auto-Skill after you start training a skill you are 126 in and begin to Auto-Skill! Skill Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
  
-(prefix)total (username)(skill)/none or (prefix)level (username)(skill)/none - View stats of yourself, users or target skill !
+(prefix)total (username)(skill)/none or (prefix)level (username)(skill)/none - View stats of yourself, users or target skill!
  
 (prefix)rank or (prefix)ranks - Skill Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving. Ranks 1-3 will display in selected category. Each rank having a title upon entrance.
  
@@ -443,24 +447,31 @@ Endurance - Chance to dodge an attack in PvP
 42. Eternal Boots 5M - 5% Endurance (Kept in Inventory)
 43. Ragefire Boots 10M - 10% Endurance (Kept in Inventory)
 44. Boots of Torment 20M - 20% Endurance (Kept in Inventory)
-45. Auto-Login 25M - Auto-logged in upon joining.
-46. Anti-Auto-Ignore (16,666.66 per hour) - Auto-Ignore avoidance. (Expires in target hour(s))
-47. Auto-Smasher (16,666.66 per hour) - Auto-Smashes all Shooting Stars, Hell's Comet & Hell's Galaxy instantly obtain obtaining. (Expires in target hour(s))
+45. Anti-Auto-Ignore (4,167 per hour) - Auto-Ignore avoidance. (Expires in target hour(s))
+46. Auto-XP (16,666.66 per hour) - Auto-XP all Genie's Lamp, Book of Knowledge, Devil's Heart, Frozen Lamp, Smouldering Lamp & Crystal Lamp instantly obtain obtaining. (Expires in target hour(s))
+47. Auto-Smasher (16,666.66 per hour) - Auto-Smashes all Shooting Stars, Hell's Comet, Hell's Galaxy, Asteroid Cyclone Debris, Hell's Rocket Pass & Saturn Debris instantly obtain obtaining. (Expires in target hour(s))
 48. Auto-Skill (41,666.65 per hour) - Will continue training your initial skill called. (Expires in target hour(s)) (Must be 99 everything to buy!) (Must be 126 in skill choice to buy!)
 49. Auto-Boss (16,666.66 per hour) - Will join any Boss Fight that appears. (Expires in target hour(s))
-50. Auto-Rest (16,666.66 per hour) - Auto-Rest (Expires in target hour(s))
-51. Shard (amount) 1K each - Used to train skills.
-52. Infinity Shard 5M - Used to train skills. (Never ending shards)
-53. Bone (amount) 2.3K each & + 1.5K Prayer XP each - Upon purchase you instantly gain Prayer XP. (99 Required for PvP!)
-54. AFK 25K - Allows you to AFK a user.
-55. Anti-AFK 50k - 1 hour of AFK avoidance.
-56. Enhanced Active - Enhanced Active which displays your tasks length and elapsed time. (Expires in target hour(s))
-57. Featured Broadcaster 1M - 1 Hour of Featured Broadcaster. (YouTube sized camera)
-58. DJ Status 2M - 24 hours of no YouTube Cooldowns.
-59. Extended Task 2M - Your slayer tasks size are always 250. (Must be 99 everything to buy!)
-60. Joined/Left-Emoji 2.5M - An emoji next to your 'joined the room' or 'left the room' message. Please contact an administrator with your emoji choice and message choice (joined/left) and give up to 24H to apply. (Cannot be a bot role emoji(Fire, Star, M, Diamond, Crown, Smiling Imp))
-61. Vote Pardon & Immunity 1M - Pardon yourself from a recent vote against you (1M for every vote type(Ban, Camblock & Mute)) and gain (6) hours of vote immunity.
-62. Name Register 1M - Register a name to your account.
+50. Auto-Rest (16,666.66 per hour) - Auto-Rest for you. (Expires in target hour(s))
+51. Infinite Anti-Auto-Ignore 5M - Auto-Ignore avoidance. (Kept in Inventory)
+52. Infinite Auto-XP 20M - Auto-XP all Genie's Lamp, Book of Knowledge, Devil's Heart, Frozen Lamp, Smouldering Lamp & Crystal Lamp instantly obtain obtaining.  (Kept in Inventory)
+53. Infinite Auto-Smasher 20M - Auto-Smashes all Shooting Stars, Hell's Comet, Hell's Galaxy, Asteroid Cyclone Debris, Hell's Rocket Pass & Saturn Debris instantly obtain obtaining. (Kept in Inventory)
+54. Infinite Auto-Skill 50M - Ability to toggle Auto-Skill when you are training a skill you are 126 in.  (Kept in Inventory) (Must be 99 everything to buy!)
+55. Infinite Auto-Boss 20M - Will join any Boss Fight that appears.  (Kept in Inventory)
+56. Infinite Auto-Rest 20M - Auto-Rest for you. (Kept in Inventory)
+57. Infinite Enhanced Active 20M - Enhanced Active which displays your tasks length and elapsed time. (Kept in Inventory)
+58. Infinite Shard 5M - Used to train skills. (Never ending shards)  (Kept in Inventory)
+59. Shard (amount) 1K each - Used to train skills.  (Kept in Inventory)
+60. Bone (amount) 2.3K each & + 1.5K Prayer XP each - Upon purchase you instantly gain Prayer XP. (99 Required for PvP!)
+61. Enhanced Active - Enhanced Active which displays your tasks length and elapsed time. (Expires in target hour(s))
+62. AFK 25K - Allows you to AFK a user.
+63. Anti-AFK 50k - 1 hour of AFK avoidance.
+64. Featured Broadcaster 1M - 1 Hour of Featured Broadcaster. (YouTube sized camera)
+65. DJ Status 2M - 24 hours of no YouTube Cooldowns.
+66. Extended Task 2M - Your slayer tasks size are always 250. (Must be 99 everything to buy!)
+67. Joined/Left-Emoji 2.5M - An emoji next to your 'joined the room' or 'left the room' message. Please contact an administrator with your emoji choice and message choice (joined/left) and give up to 24H to apply. (Cannot be a bot role emoji(Fire, Star, M, Diamond, Crown, Smiling Imp))
+68. Vote Pardon & Immunity 1M - Pardon yourself from a recent vote against you (1M for every vote type(Ban, Camblock & Mute)) and gain (6) hours of vote immunity.
+69. Name Register 1M - Register a name to your account.
  
               ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
               │                                               L4 -  Op                                                    |
