@@ -396,12 +396,12 @@ Damage - These skills involve fighting in Combat - Attack, Strength, Defence, Ra
 Gathering - These skills involve gathering raw materials (resources) directly from the source. - Fishing, Mining, Woodcutting, Hunter & Farming.
 Artisan - These skills involve using resource items to create other, generally more useful items. - Cooking, Smithing, Firemaking, Fletching, Construction, Crafting, Herblore.
 Survivalist - These skills help the player in various different ways. Slayer, Agility & Thieving.
-Luck - Chance at a special drop from a Boss Fight. Strong Potion Set, Auto-Rest (1) hour, Instant Blackjack, Instant YouTube & Treasure Key.
+Luck - Chance at a lucky drop from a Boss Fight: Strong Damage Potion, Strong Gatherer Potion, Strong Artisan Potion, Strong Survivalist Potion, Auto-Rest & Enhanced Active (1) hour & a random Chest Key. (Gold equivalent if own any 1 hour item and if you have all keys.)
 Focus - Chance to swing first in PvP
 Endurance - Chance to dodge an attack in PvP
 - * - | - * -
  
-(prefix)shop or (prefix)buy - View the shop categories by typing no target. If target in Categories: [Cooldown, Potion, Weapons, Cape, Necklace, Glove, Ring, Helmet, Armor, Boot, Auto & Misc] If target is a number(item) within one of the categories you will attempt to purchase.
+(prefix)shop or (prefix)buy - View the shop categories by typing no target. If target in Categories: [Cooldown, Potion, Weapons, Cape, Necklace, Glove, Ring, Helmet, Armor, Boot, Auto, Infinite & Misc] If target is a number(item) within one of the categories you will attempt to purchase.
  
 1. Instant YouTube 50K - Ability to add a single track to the queue without having to wait on a YouTube Cooldown! (Lose upon leaving!)
 2. Instant Blackjack 25K - Ability to play a single hand without having to wait on a Blackjack Cooldown!  (Lose upon leaving!)
@@ -465,10 +465,10 @@ Endurance - Chance to dodge an attack in PvP
 60. Bone (amount) 2.3K each & + 1.5K Prayer XP each - Upon purchase you instantly gain Prayer XP. (99 Required for PvP!)
 61. Enhanced Active - Enhanced Active which displays your tasks length and elapsed time. (Expires in target hour(s))
 62. AFK 25K - Allows you to AFK a user.
-63. Anti-AFK 50k - 1 hour of AFK avoidance.
+63. Anti-AFK 75k - 1 hour of AFK avoidance.
 64. Featured Broadcaster 1M - 1 Hour of Featured Broadcaster. (YouTube sized camera)
 65. DJ Status 2M - 24 hours of no YouTube Cooldowns.
-66. Extended Task 2M - Your slayer tasks size are always 250. (Must be 99 everything to buy!)
+66. Extended Task 5M - Your slayer tasks size are always 250. (Must be 99 everything to buy!)
 67. Joined/Left-Emoji 2.5M - An emoji next to your 'joined the room' or 'left the room' message. Please contact an administrator with your emoji choice and message choice (joined/left) and give up to 24H to apply. (Cannot be a bot role emoji(Fire, Star, M, Diamond, Crown, Smiling Imp))
 68. Vote Pardon & Immunity 1M - Pardon yourself from a recent vote against you (1M for every vote type(Ban, Camblock & Mute)) and gain (6) hours of vote immunity.
 69. Name Register 1M - Register a name to your account.
