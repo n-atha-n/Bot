@@ -208,17 +208,17 @@ decline - Decline the Dice or Rock Paper Scissors Duel.
 ------------------------------------------------------------ Random Events ------------------------------------------------------------
 *Random Events use no prefix.
 
-Genie - (12.5% Adrenaline) A Genie will appear in the chat every so often. The first user to type 'genie' will obtain the Genie's Lamp they have to !genie skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+Genie - (12.5% Adrenaline) A Genie will appear in the chat every so often. The first user to type 'genie' will obtain the Genie's Lamp they have to !genie skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
  
-Master of Trades - (25% Adrenaline) A Master of Trades will appear in the chat every so often. The first user to type 'book' will obtain his Book of Knowledge | they then have to !book skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+Master of Trades - (25% Adrenaline) A Master of Trades will appear in the chat every so often. The first user to type 'book' will obtain his Book of Knowledge | they then have to !book skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
  
-Devil's Heart - (45% Adrenaline) A Devil's Heart has fallen upon the chat room! The first user to type 'heart' in the chatbox will obtain the Devil's Heart to consume! | they then have to !heart skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+Devil's Heart - (45% Adrenaline) A Devil's Heart has fallen upon the chat room! The first user to type 'heart' in the chatbox will obtain the Devil's Heart to consume! | they then have to !heart skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
 
-Frozen Lamp - (70% Adrenaline) Sunlight shines down and reflects lights off a Frozen Lamp! The first user to type 'frozen' in the chatbox will obtain the Frozen Lamp! | they then have to !frozen skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+Frozen Lamp - (70% Adrenaline) Sunlight shines down and reflects lights off a Frozen Lamp! The first user to type 'frozen' in the chatbox will obtain the Frozen Lamp! | they then have to !frozen skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
 
-Smouldering Lamp - (85% Adrenaline) Hell's Volcano has erupted and a Smouldering Lamp has appeared! The first user to type 'volcano' in the chatbox will obtain the Smouldering Lamp! | they then have to !volcano skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+Smouldering Lamp - (85% Adrenaline) Hell's Volcano has erupted and a Smouldering Lamp has appeared! The first user to type 'volcano' in the chatbox will obtain the Smouldering Lamp! | they then have to !volcano skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
 
-Crystal Lamp - (100% Adrenaline) An Alien appeared offering a Crystal Lamp! The first user to type 'alien' in the chatbox will obtain the Crystal Lamp! | they then have to !alien skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+Crystal Lamp - (100% Adrenaline) An Alien appeared offering a Crystal Lamp! The first user to type 'alien' in the chatbox will obtain the Crystal Lamp! | they then have to !alien skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
 
 Rainbow - (12.5% Adrenaline) A rainbow will appear in the chat every so often. The first user to type 'gold' will loot the Pot of Gold at the end of it! They will loot it for a random amount of gold.
  
@@ -265,6 +265,8 @@ Unlimited Blackjack - (100% Adrenaline) First user to type 'blackjack' in the ch
 (Seasonal Event) Halloween Treat - (100% Adrenaline) A piece of candy has been spotted! The first member to type 'treat' will obtain it!  After obtaining the Halloween Treat the user then types !treat and consumes it.
  
 (Seasonal Event) Santa - (100% Adrenaline) Santa appears flying overhead and the first user to type "santa" in the chat will obtain Santa's Gift. After obtaining Santa's gift the user then types !gift and opens it.
+
+(Seasonal Event) Birthday - (0% Adrenaline) Birthday Balloons starts to float away! The first member to type "balloon" in the chatbox will catch for an extra Birthday Gift! (Everyone gets one gift during this, but catcher gets two.) (Birthday User gets 24 + 1 after it tells you to do it again.)
  
 Dropped Items - If a player leaves the room without using one or more of the following items in Inventory: [Instant Youtube, Instant Blackjack, Star Fragments, Hell's Comet Fragments, Genie's Lamp, Book & Treasure Key], they will be dropped in the chatbox where any Member can type 'take' to obtain them.
  
@@ -287,7 +289,7 @@ Skill Rest - (-25% Adrenaline) A Player has grown tired skilling and must type '
  
 (prefix)votes - Shows how many required votes for a normal vote to pass and a moderator vote to pass at that exact moment. Very Idle users and guests are not counted when voting!
 
-(prefix)attendance - Shows how much time you've spent on camera and how much time within the room. (Since 1-2-2021)
+(prefix)attendance - Shows how much time you've spent on camera and how much time within the room. (Discontinued)
  
 (prefix)stats or (prefix)stats (username) - Shows your stats or stats of desired user.
  
@@ -303,11 +305,11 @@ Skill Rest - (-25% Adrenaline) A Player has grown tired skilling and must type '
  
 (prefix)skill - Toggle use your Infinity Auto-Skill after you start training a skill you are 126 in!
 
-(prefix)xp (skill) - Toggle your Infinity Auto-Skill after you start training a skill you are 126 in and begin to Auto-Skill! Skill Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+(prefix)xp (skill) - Toggle your Infinity Auto-Skill after you start training a skill you are 126 in and begin to Auto-Skill! Skill Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
  
 (prefix)total (username)(skill)/none or (prefix)level (username)(skill)/none - View stats of yourself, users or target skill!
  
-(prefix)rank or (prefix)ranks - Skill Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving. Ranks 1-3 will display in selected category. Each rank having a title upon entrance.
+(prefix)rank or (prefix)ranks - Skill Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving. Ranks 1-3 will display in selected category. Each rank having a title upon entrance.
  
 (prefix)fishing or (prefix)fish - Start Fishing highest tier.
  
@@ -340,28 +342,32 @@ Skill Rest - (-25% Adrenaline) A Player has grown tired skilling and must type '
 (prefix)thieving or (prefix)thieve or (prefix)thief - Start thieving highest tier.
 
 (prefix)boss - Join the ongoing boss fight if you have the required slayer level.
+
+(prefix)task - View your slayer info !
  
 (prefix)active - Check your active skill being trained. Enhanced Active store purchase will display more if bought! Displays your skill elapsed time & time of skill completion.
- 
-(prefix)task - View your slayer info !
+
+(prefix)spawns or (prefix)spawn - See when the next boss spawn is and what tier if you have Enhanced Active.
  
 (prefix)shards (username)/none - Check how many shards you or target user have. Shards are used to train skills !
  
 (prefix)inventory or (prefix)inv - View your inventory or another players!
 
+(prefix)pets or (prefix)user pets - View your inventory or another players!
+
 (prefix)events - Shows which random events are up or not. (Y = Yes & N = No)
  
-(prefix)genie - If you have a Genie's Lamp you can use it in a skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+(prefix)genie - If you have a Genie's Lamp you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
  
-(prefix)book - If you have a Book of Knowledge you can use it in a skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+(prefix)book - If you have a Book of Knowledge you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
  
-(prefix)heart - If you have a Devil's Heart you can use it in a skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+(prefix)heart - If you have a Devil's Heart you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
 
-(prefix)frozen - If you have a Frozen Lamp you can use it in a skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+(prefix)frozen - If you have a Frozen Lamp you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
 
-(prefix)volcano - If you have a Smouldering Lamp you can use it in a skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+(prefix)volcano - If you have a Smouldering Lamp you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
 
-(prefix)alien - If you have a Crystal Lamp you can use it in a skill choice. Choices: Prayer, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+(prefix)alien - If you have a Crystal Lamp you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
  
 (prefix)star - If you have Star Fragments you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (1-10)
  
@@ -390,8 +396,12 @@ Skill Rest - (-25% Adrenaline) A Player has grown tired skilling and must type '
 (prefix)egg - If you have an Easter Egg you can use this command to open it and obtain the gifts!
 
 (prefix)treat - If you have a Halloween Treat you can use this command to open it and obtain the gifts!
+
+(prefix)birthday - If you have a Birthday Gift you can use this command to open it and obtain the gifts!
  
 (prefix)gift - If you have a Santa's Gift you can use this command to open it and obtain the gifts!
+
+(prefix)bag - If you have a Gift Bag you can use this command to open it and obtain the gifts!
  
 (prefix)quests - Check quests (Earn 99K per Level 99 upon confirmation & 1337K for Max)! (PM Bot you hit 99)
  
@@ -401,6 +411,7 @@ Gathering - These skills involve gathering raw materials (resources) directly fr
 Artisan - These skills involve using resource items to create other, generally more useful items. - Cooking, Smithing, Firemaking, Fletching, Construction, Crafting, Herblore.
 Survivalist - These skills help the player in various different ways. Slayer, Agility & Thieving.
 Luck - Chance at a lucky drop from a Boss Fight: Strong Damage Potion, Strong Gatherer Potion, Strong Artisan Potion, Strong Survivalist Potion, Auto-Rest & Enhanced Active (1) hour & a random Chest Key. (Gold equivalent if own any 1 hour item or if you have all keys in inventory.)
+Armor - Chance to reduce damage taken in PvP.
 Focus - Chance to swing first in PvP
 Endurance - Chance to dodge an attack in PvP
 - * - | - * -
@@ -421,63 +432,93 @@ Endurance - Chance to dodge an attack in PvP
 12. Weak Survivalist Potion (4,166.665 per hour) - 5% faster Survivalist skills while active. (Expires in target hour(s))
 13. Medium Survivalist Potion (8,333.33 per hour) - 10% faster Survivalist skills while active. (Expires in target hour(s))
 14. Strong Survivalist Potion (16,666.66 per hour) - 20% faster Survivalist skills while active. (Expires in target hour(s))
-15. Hunter Bow 5M - 5% Damage (Kept in Inventory)
-16. Rapier 5M - 5% Damage (Kept in Inventory)
-17. Staff of Darkness 5M - 5% Damage (Kept in Inventory)
-18. Hand Cannon 10M - 10% Damage (Kept in Inventory)
-19. Devil's Whip 10M - 10% Damage (Kept in Inventory)
-20. Abyssal Wand 10M - 10% Damage (Kept in Inventory)
-21. Hellfire Bow 20M - 20% Damage (Kept in Inventory)
-22. Reaper Scythe 20M - 20% Damage (Kept in Inventory)
-23. Staff of Skulls 20M - 20% Damage (Kept in Inventory)
-24. Lava Cape 5M - 5% Gathering (Kept in Inventory)
-25. Spirit Cape 10M - 10% Gathering (Kept in Inventory)
-26. Devil's Cape 20M - 20% Gathering (Kept in Inventory) (Must be 99 everything to buy!)
-27. Demon Horn Necklace 5M - 5% Artisan (Kept in Inventory)
-28. Reaper Necklace 10M - 10% Artisan (Kept in Inventory)
-29. Soul Necklace 20M - 20% Artisan (Kept in Inventory) (Must be 99 everything to buy!)
-30. Safety Gloves 5M - 5% Survivalist (Kept in Inventory)
-31. Tracking Gloves 10M - 10% Survivalist (Kept in Inventory)
-32. Nightmare Gloves 20M - 20% Survivalist (Kept in Inventory) (Must be 99 everything to buy!)
-33. Twisted Ring 5M - 5% Luck (Kept in Inventory)
-34. Ring of Death 10M - 10% Luck (Kept in Inventory)
-35. Ring of Souls 20M - 20% Luck (Kept in Inventory)
-36. Shadow Mask 5M - 5% Focus (Kept in Inventory)
-37. Obsidian Faceguard 10M - 10% Focus (Kept in Inventory)
-38. Helmet of Sacrifice 20M - 20% Focus (Kept in Inventory)
-39. Skeletal Armor 5M - 5% Armor (Kept in Inventory)
-40. Death Lotus Robes 10M - 10% Armor (Kept in Inventory)
-41. Lucifer's Shroud 20M - 20% Armor (Kept in Inventory)
-42. Eternal Boots 5M - 5% Endurance (Kept in Inventory)
-43. Ragefire Boots 10M - 10% Endurance (Kept in Inventory)
-44. Boots of Torment 20M - 20% Endurance (Kept in Inventory)
-45. Anti-Auto-Ignore (4,167 per hour) - Auto-Ignore avoidance. (Expires in target hour(s))
-46. Auto-XP (16,666.66 per hour) - Auto-XP all Genie's Lamp, Book of Knowledge, Devil's Heart, Frozen Lamp, Smouldering Lamp & Crystal Lamp instantly upon obtaining. (Expires in target hour(s))
-47. Auto-Smash (16,666.66 per hour) - Auto-Smash all Shooting Stars, Hell's Comet, Hell's Galaxy, Asteroid Cyclone Debris, Hell's Rocket Pass & Saturn Debris instantly upon obtaining. (Expires in target hour(s))
-48. Auto-Unlock (16,666.66 per hour) - Auto-Unlock all all Treasure, Haunted, Sunken, Magic, Crystal & Devil's Chest.
-49. Auto-Boss (16,666.66 per hour) - Will join any Boss Fight that appears. (Expires in target hour(s))
-50. Auto-Rest (16,666.66 per hour) - Auto-Rest for you. (Expires in target hour(s))
-51. Auto-Skill (41,666.65 per hour) - Will continue training your initial skill called. (Expires in target hour(s)) (Must be 99 everything to buy!) (Must be 126 in skill choice to buy!)
-52. Infinite Anti-Auto-Ignore 5M - Auto-Ignore avoidance. (Kept in Inventory)
-53. Infinite Auto-XP 20M - Auto-XP all Genie's Lamp, Book of Knowledge, Devil's Heart, Frozen Lamp, Smouldering Lamp & Crystal Lamp instantly upon obtaining.  (Kept in Inventory)
-54. Infinite Auto-Smasher 20M - Auto-Smashes all Shooting Stars, Hell's Comet, Hell's Galaxy, Asteroid Cyclone Debris, Hell's Rocket Pass & Saturn Debris instantly upon obtaining. (Kept in Inventory)
-55. Infinite Auto-Unlock 20M - Auto-Unlock all all Treasure, Haunted, Sunken, Magic, Crystal & Devil's Chest.
-56. Infinite Auto-Skill 50M - Ability to toggle Auto-Skill when you are training a skill you are 126 in.  (Kept in Inventory) (Must be 99 everything to buy!)
-57. Infinite Auto-Boss 20M - Will join any Boss Fight that appears.  (Kept in Inventory)
-58. Infinite Auto-Rest 20M - Auto-Rest for you. (Kept in Inventory)
-59. Infinite Enhanced Active 20M - Enhanced Active which displays your tasks length and elapsed time. (Kept in Inventory)
-60. Infinite Shard 5M - Used to train skills. (Never ending shards)  (Kept in Inventory)
-61. Shard (amount) 1K each - Used to train skills.  (Kept in Inventory)
-62. Bone (amount) 2.3K each & + 1.5K Prayer XP each - Upon purchase you instantly gain Prayer XP. (99 Required for PvP!)
-63. Enhanced Active - Enhanced Active which displays your tasks length and elapsed time. (Expires in target hour(s))
-64. AFK 25K - Allows you to AFK a user.
-65. Anti-AFK 75k - 1 hour of AFK avoidance.
-66. Featured Broadcaster 1M - 1 Hour of Featured Broadcaster. (YouTube sized camera)
-67. DJ Status 2M - 24 hours of no YouTube Cooldowns.
-68. Extended Task 5M - Your slayer tasks size are always 250. (Must be 99 everything to buy!)
-69. Joined/Left-Emoji 2.5M - An emoji next to your 'joined the room' or 'left the room' message. Please contact an administrator with your emoji choice and message choice (joined/left) and give up to 24H to apply. (Cannot be a bot role emoji(Fire, Star, M, Diamond, Crown, Smiling Imp))
-70. Vote Pardon & Immunity 1M - Pardon yourself from a recent vote against you (1M for every vote type(Ban, Camblock & Mute)) and gain (6) hours of vote immunity.
-71. Name Register 1M - Register a name to your account.
+15. Weak Resistance Potion (4,166.665 per hour) - 5% Resistance to adrenaline drain. (Expires in target hour(s))
+16. Medium Resistance Potion (8,333.33 per hour) - 10% Resistance to adrenaline drain. (Expires in target hour(s))
+17. Strong Resistance Potion (16,666.66 per hour) - 20% Resistance to adrenaline drain. (Expires in target hour(s))
+18. Weak Luck Potion (4,166.665 per hour) - 5% Luck towards a boss drop. (Expires in target hour(s))
+19. Medium Luck Potion (8,333.33 per hour) - 10% Luck towards a boss drop. (Expires in target hour(s))
+20. Strong Luck Potion (16,666.66 per hour) - 20% Luck towards a boss drop. (Expires in target hour(s))
+21. Weak Armor Potion (4,166.665 per hour) - 5% Chance to reduce damage taken in PvP. (Expires in target hour(s))
+22. Medium Armor Potion (8,333.33 per hour) - 10% Chance to reduce damage taken in PvP. (Expires in target hour(s))
+23. Strong Armor Potion (16,666.66 per hour) - 20% Chance to reduce damage taken in PvP. (Expires in target hour(s))
+24. Weak Focus Potion (4,166.665 per hour) - 5% Chance to swing first in PvP. (Expires in target hour(s))
+25. Medium Focus Potion (8,333.33 per hour) - 10% Chance to swing first in PvP. (Expires in target hour(s))
+26. Strong Focus Potion (16,666.66 per hour) - 20% Chance to swing first in PvP. (Expires in target hour(s))
+27. Weak Endurance Potion (4,166.665 per hour) - 5% Chance to dodge an attack in PvP. (Expires in target hour(s))
+28. Medium Endurance Potion (8,333.33 per hour) - 10% Chance to dodge an attack in PvP. (Expires in target hour(s))
+29. Strong Endurance Potion (16,666.66 per hour) - 20% Chance to dodge an attack in PvP. (Expires in target hour(s))
+30. Hunter Bow 5M - 5% Damage (Kept in Inventory)
+31. Rapier 5M - 5% Damage (Kept in Inventory)
+32. Staff of Darkness 5M - 5% Damage (Kept in Inventory)
+33. Hand Cannon 10M - 10% Damage (Kept in Inventory)
+34. Devil's Whip 10M - 10% Damage (Kept in Inventory)
+35. Abyssal Wand 10M - 10% Damage (Kept in Inventory)
+36. Hellfire Bow 20M - 20% Damage (Kept in Inventory)
+37. Reaper Scythe 20M - 20% Damage (Kept in Inventory)
+38. Staff of Skulls 20M - 20% Damage (Kept in Inventory)
+39. Lava Cape 5M - 5% Gathering (Kept in Inventory)
+40. Spirit Cape 10M - 10% Gathering (Kept in Inventory)
+41. Devil's Cape 20M - 20% Gathering (Kept in Inventory) (Must be 99 everything to buy!)
+42. Demon Horn Necklace 5M - 5% Artisan (Kept in Inventory)
+43. Reaper Necklace 10M - 10% Artisan (Kept in Inventory)
+44. Soul Necklace 20M - 20% Artisan (Kept in Inventory) (Must be 99 everything to buy!)
+45. Safety Gloves 5M - 5% Survivalist (Kept in Inventory)
+46. Tracking Gloves 10M - 10% Survivalist (Kept in Inventory)
+47. Nightmare Gloves 20M - 20% Survivalist (Kept in Inventory) (Must be 99 everything to buy!)
+48. Magic Arua 5M - 5% Resistance (Kept in Inventory)
+49. Divine Arua 10M - 10% Resistance (Kept in Inventory)
+50. Demonic Arua 20M - 20% Resistance (Kept in Inventory)
+51. Twisted Ring 5M - 5% Luck (Kept in Inventory)
+52. Ring of Death 10M - 10% Luck (Kept in Inventory)
+53. Ring of Souls 20M - 20% Luck (Kept in Inventory)
+54. Shadow Mask 5M - 5% Focus (Kept in Inventory)
+55. Obsidian Faceguard 10M - 10% Focus (Kept in Inventory)
+56. Helmet of Sacrifice 20M - 20% Focus (Kept in Inventory)
+57. Skeletal Armor 5M - 5% Armor (Kept in Inventory)
+58. Death Lotus Robes 10M - 10% Armor (Kept in Inventory)
+59. Lucifer's Shroud 20M - 20% Armor (Kept in Inventory)
+60. Eternal Boots 5M - 5% Endurance (Kept in Inventory)
+61. Ragefire Boots 10M - 10% Endurance (Kept in Inventory)
+62. Boots of Torment 20M - 20% Endurance (Kept in Inventory)
+63. Anti-Auto-Ignore (4,167 per hour) - Auto-Ignore avoidance. (Expires in target hour(s))
+64. Auto-XP (16,666.66 per hour) - Auto-XP all Genie's Lamp, Book of Knowledge, Devil's Heart, Frozen Lamp, Smouldering Lamp & Crystal Lamp instantly upon obtaining. (Expires in target hour(s))
+65. Auto-Smash (16,666.66 per hour) - Auto-Smash all Shooting Stars, Hell's Comet, Hell's Galaxy, Asteroid Cyclone Debris, Hell's Rocket Pass & Saturn Debris instantly upon obtaining. (Expires in target hour(s))
+66. Auto-Unlock (16,666.66 per hour) - Auto-Unlock all all Treasure, Haunted, Sunken, Magic, Crystal & Devil's Chest.
+67. Auto-Boss (16,666.66 per hour) - Will join any Boss Fight that appears. (Expires in target hour(s))
+68. Auto-PvP (16,666.66 per hour) - Will join any Battle Royale that starts. (Expires in target hour(s))
+69. Auto-Rest (16,666.66 per hour) - Auto-Rest for you. (Expires in target hour(s))
+70. Auto-Skill (41,666.65 per hour) - Will continue training your initial skill called. (Expires in target hour(s)) (Must be 99 everything to buy!) (Must be 126 in skill choice to buy!)
+71. Infinite Shard 5M - Used to train skills. (Never ending shards)  (Kept in Inventory)
+72. Infinite Anti-Auto-Ignore 5M - Auto-Ignore avoidance. (Kept in Inventory)
+73. Infinite Auto-XP 20M - Auto-XP all Genie's Lamp, Book of Knowledge, Devil's Heart, Frozen Lamp, Smouldering Lamp & Crystal Lamp instantly upon obtaining.  (Kept in Inventory)
+74. Infinite Auto-Smash 20M - Auto-Smashes all Shooting Stars, Hell's Comet, Hell's Galaxy, Asteroid Cyclone Debris, Hell's Rocket Pass & Saturn Debris instantly upon obtaining. (Kept in Inventory)
+75. Infinite Auto-Unlock 20M - Auto-Unlock all all Treasure, Haunted, Sunken, Magic, Crystal & Devil's Chest.
+76. Infinite Auto-Boss 20M - Will join any Boss Fight that appears.  (Kept in Inventory)
+77. Infinite Auto-PvP 20M - Will join any Battle Royale that starts.  (Kept in Inventory)
+78. Infinite Auto-Rest 20M - Auto-Rest for you. (Kept in Inventory)
+79. Infinite Enhanced Active 20M - Enhanced Active which displays your tasks length and elapsed time. (Kept in Inventory)
+80. Infinite Auto-Skill 50M - Ability to toggle Auto-Skill when you are training a skill you are 126 in.  (Kept in Inventory) (Must be 99 everything to buy!)
+81. Shard (amount) 1K each - Used to train skills.  (Kept in Inventory)
+82. Bone (amount) 2.3K each & + 1.5K Prayer XP each - Upon purchase you instantly gain Prayer XP.
+83. Soul (amount) 2.3K each & + 1.5K Summoning XP each - Upon purchase you instantly gain Summoning XP.
+84. Enhanced Active - Enhanced Active which displays your tasks length and elapsed time. (Expires in target hour(s))
+85. AFK 25K - Allows you to AFK a user.
+86. Anti-AFK 75k - 1 hour of AFK avoidance.
+87. Featured Broadcaster 1M - 1 Hour of Featured Broadcaster. (YouTube sized camera)
+88. DJ Status 2M - 24 hours of no YouTube Cooldowns.
+89. Extended Task 5M - Your slayer tasks size are always 250. (Must be 99 everything to buy!)
+90. Joined/Left-Emoji 2.5M - An emoji next to your 'joined the room' or 'left the room' message. Please contact an administrator with your emoji choice and message choice (joined/left) and give up to 24H to apply. (Cannot be a bot role emoji(Fire, Star, M, Diamond, Crown, Smiling Imp))
+91. Vote Pardon - Pardon yourself from a recent vote against you. 250K per voter.
+92. Vote Immunity - Immune from voting. 250K per current voters, per hour.
+93. Name Register 1M - Register a name to your account.
+94. Storage Bag 20M - Stores items you would normally drop by leaving the room in your Storage Bag to be obtained again when you enter next time.
+95. Adrenaline Shot (833.3 per 1%) - Gain Adrenaline.
+96. Devil's Key 126K - Obtain a Devil's Key.
+97. Gift Bag - 250K - Obtain a Gift Bag to open by using the command "!bag".
+98. Companion Pet (20M per 1%) - A Companion Pet helps you with your Gathering skills. You gain Gold and XP based off your Pet Bonus.
+99. Support Pet (20M per 1%) - A Support Pet helps you with your Artisan skills. You gain Gold and XP based off your Pet Bonus.
+100. Follower Pet (20M per 1%) - A Follower Pet helps you with your Survivalist skills. You gain Gold and XP based off your Pet Bonus.
+101. Legendary Pet (20M per 1%) - A Legendary Pet helps you with your Combat (Boss & PvP). You gain Gold and XP based off your Pet Bonus or deal bonus damage in PvP.
  
               ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
               │                                               L4 -  Op                                                    |
