@@ -528,12 +528,12 @@ Endurance - Chance to dodge an attack in PvP
 101. Legendary Pet (20M per 1%) - A Legendary Pet helps you with your Combat (Boss & PvP). You gain Gold and XP based off your Pet Bonus or deal bonus damage in PvP.
 102. Deflect Damage (Target) (Point) - (1) PvP Point per Deflect Damage spent towards user. You gain protection from anythiing in the PvP shop being used against you.
 103. Sap Deflect (Target) (Point) - (1) PvP Point per Sap Deflect bought against user. You drain target user of their Deflect Damage to be able to use PvP actions against them once they have (0) Deflect Damage.
-104. Respawn (Target) (Death) (Point) - (1) PvP point spent to reduce your time spent Camblock or Muted.
-105. Camblock (Target) (Point) - Random User: (2) | Target User: (3) - Choose either "random" or target user and each Point you put in it is 5 minutes they are camblocked.
-106. Mute (Target) (Point) - Random User: (2) | Target User: (3) - Choose either "random" or target user and each Point you put in it is 5 minutes they are muted.
-107. Close (target) - Random User: (1) | Target User: (2) - Choose either "random" or target user and close their camera.
-108. Leech Adrenaline (Target) - Random User: (1) | Target User: (2) - Choose either "random" or target user and you take the Adrenaline gain they would have. A user can have up to 4 users they Leech Adrenaline of. (Expires in target hour or until a Deflect Damage point is gained)
-109. Rob (Target) - Random User: (1) | Target User: (2) - Choose either "random" or target user and take all the droppable items they have in their inventory. 
+104. Respawn (Target) (Death) (Point) - (5) PvP point spent to reduce your time spent Camblock or Muted.
+105. Camblock (Target) (Point) - Random User: (5) | Target User: (10) - Choose either "random" or target user and each Point you put in it is 5 minutes they are camblocked.
+106. Mute (Target) (Point) - Random User: (5) | Target User: (10) - Choose either "random" or target user and each Point you put in it is 5 minutes they are muted.
+107. Close (target) - Random User: (2.5) | Target User: (5) - Choose either "random" or target user and close their camera.
+108. Leech Adrenaline (Target) - Random User: (2.5) | Target User: (5) - Choose either "random" or target user and you take the Adrenaline gain they would have. A user can have up to 4 users they Leech Adrenaline of. (Expires in target hour or until a Deflect Damage point is gained)
+109. Rob (Target) - Random User: (2.5) | Target User: (5) - Choose either "random" or target user and take all the droppable items they have in their inventory. 
  
               ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
               │                                               L4 -  Op                                                    |
