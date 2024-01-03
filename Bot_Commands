@@ -1,4 +1,4 @@
-prefix = '.' or '!'                   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ [Discord]: https://discord.gg/5DavKeK
+prefix = '.' or '!'                   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ [Discord]: https://discord.gg/2B996ZZBnk
                                       █                                                        █
                                       █                    Table Of Contents                   █
                                       █                                                        █
@@ -40,9 +40,17 @@ prefix = '.' or '!'                   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
 (prefix)rps (username) (bet) - Rock Paper Scissors Duel vs desired user for gold.
 
-accept - Accept the PvP, Dice or Rock Paper Scissors Duel.
+(prefix)connect4 (username) (bet) - Connect 4 vs desired user for gold.
 
-decline - Decline the PvP, Dice or Rock Paper Scissors Duel.
+(prefix)go (1-7) - When it's your turn in Connect 4, using this you choose which row you wish to put your piece, if row isn't filled.
+
+(prefix)tictactoe (username) (bet) - Tic Tac Toe vs desired user for gold.
+
+(prefix)tic or (prefix)tac or (prefix)toe or (prefix)t (A3|B3|C3 A2|B2|C2 A1|B1|C1)- When it is your turn during Tic Tac Toe, you can select one of these options for which spot you'd like to play, if available.
+
+accept - Accept the PvP, Dice, Rock Paper Scissors, Connect 4 or Tic-Tac-Toe Duel.
+
+decline - Decline the PvP, Dice, Rock Paper Scissors, Connect 4 or Tic-Tac-Toe Duel.
  
 (prefix)blackjack (bet) or (prefix)bj (bet) - Starts a Blackjack hand vs. the dealer.
  
@@ -63,6 +71,10 @@ decline - Decline the PvP, Dice or Rock Paper Scissors Duel.
 (prefix)surrender - Surrender hand and be given 1/2 of your initial bet.
  
 (prefix)insurance - Dealer face card == [A]ce, you can make an side bet. (1/2 initial bet they have blackjack.)
+
+(prefix)poker or (prefix)vp (bet) - Start a Video Poker hand with given bet amount and then choose how many you hold.
+
+(prefix)hold (options) - Choose which cards 1-5 you will hold and be dealt new cards of those not held.
  
 (prefix)gamble (bet) - Random slot machine from the following choices..
  
@@ -79,6 +91,10 @@ decline - Decline the PvP, Dice or Rock Paper Scissors Duel.
 (prefix)aquatic (bet) - Aquatic slot machine. x100 = "🐙". x50 = "🐳". x40 = "🦈". x30 = "🐬". x20 = "🐠". x10 = "🐡". x5 = "🐟"
  
 (prefix)birds (bet) - Bird slot machine. x100 = "🐧". x50 = "🦅". x40 = "🦢". x30 = "🦚". x20 = "🦜". x10 = "🦉". x5 = "🦆"
+
+(prefix)wordle - Start a random Wordle game.
+
+(prefix)guess - Take a guess on your Wordle game.
  
 (prefix)trivia (category) - Trivia questions and answers. To view current list, type (prefix)trivia categories
  
@@ -171,6 +187,8 @@ decline - Decline the PvP, Dice or Rock Paper Scissors Duel.
 (prefix)ddos (user) - DDoS target user.
  
 (prefix)jew (user) - Jew detector on target user.
+
+(prefix)asker (prefix)askers (prefix)ask (prefix)any - Any Askers?
  
 (prefix)drug (user, self) - Random drug.
  
@@ -207,76 +225,7 @@ decline - Decline the PvP, Dice or Rock Paper Scissors Duel.
               ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
               │                                               L4.5 -  Member                                              |
               ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝
------------------------------------------------------------- Random Events ------------------------------------------------------------
-*Random Events use no prefix.
 
-Genie - (12.5% Adrenaline) A Genie will appear in the chat every so often. The first user to type 'genie' will obtain the Genie's Lamp they have to !genie skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
- 
-Master of Trades - (25% Adrenaline) A Master of Trades will appear in the chat every so often. The first user to type 'book' will obtain his Book of Knowledge | they then have to !book skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
- 
-Devil's Heart - (45% Adrenaline) A Devil's Heart has fallen upon the chat room! The first user to type 'heart' in the chatbox will obtain the Devil's Heart to consume! | they then have to !heart skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
-
-Frozen Lamp - (70% Adrenaline) Sunlight shines down and reflects lights off a Frozen Lamp! The first user to type 'frozen' in the chatbox will obtain the Frozen Lamp! | they then have to !frozen skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
-
-Smouldering Lamp - (85% Adrenaline) Hell's Volcano has erupted and a Smouldering Lamp has appeared! The first user to type 'volcano' in the chatbox will obtain the Smouldering Lamp! | they then have to !volcano skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
-
-Crystal Lamp - (100% Adrenaline) An Alien appeared offering a Crystal Lamp! The first user to type 'alien' in the chatbox will obtain the Crystal Lamp! | they then have to !alien skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
-
-Rainbow - (12.5% Adrenaline) A rainbow will appear in the chat every so often. The first user to type 'gold' will loot the Pot of Gold at the end of it! They will loot it for a random amount of gold.
- 
-Flying Money - (25% Adrenaline) Flying Money will randomly appearing in the chat. The first user to type 'money' will obtain it and be given a random amount of gold.
- 
-Moneybag - (45% Adrenaline) A Moneybag slips open every now and then. The first member to type 'loot' will loot what fell out! They will loot it for a random amount of gold.
-
-Hell's Bank - (70% Adrenaline) Hell's bank is being robbed! The first member to type 'bank' in the chatbox will join the heist! They will loot it for a random amount of gold.
-
-Airdrop - (85% Adrenaline) There is an incoming Airdrop! The first member to type 'airdrop' in the chatbox will obtain it! They will loot it for a random amount of gold.
-
-Diamond - (100% Adrenaline) A Diamond has been spotted! The first member to type 'diamond' in the chatbox will obtain it! They will loot it for a random amount of gold.
- 
-Shooting Star - (12.5% Adrenaline) A Shooting Star will appear overhead every so often. The first user to type 'star' will obtain the Star Fragments! Star Fragments are then smashed with the command !star for a random amount of Shards or Gold if user has Infinity Shard.
- 
-Hell's Comet - (25% Adrenaline) Hell's Comet will appear overheard every so often. The first user to type 'comet' will obtain the Hell's Comet Fragments! Fragments are then broken with the command !comet for a random amount of Shards or Gold if user has Infinity Shard.
- 
-Hell's Galaxy - (45% Adrenaline) Something crashes into Hell's Galaxy allowing the first user to type 'galaxy' to obtain the Hell's Galaxy Debris! !galaxy for a random amount of Shards or Gold if user has Infinity Shard.
-
-Asteroid Cyclone - (70% Adrenaline) An Asteroid Cyclone has developed in Hell's Galaxy! The first member to type 'cyclone' in the chatbox will obtain the Asteroid Cyclone Debris! !cyclone for a random amount of Shards or Gold if user has Infinity Shard.
-
-Hell's Rocket - (85% Adrenaline) There is an upcoming Hell's Rocket launching! The first member to type 'rocket' in the chatbox will obtain the Hell's Rocket Pass! !rocket for a random amount of Shards or Gold if user has Infinity Shard.
-
-Saturn - (100% Adrenaline) Saturn Debris has been spotted overhead! The first member to type 'saturn' in the chatbox will obtain the Saturn Debris! !saturn for a random amount of Shards or Gold if user has Infinity Shard.
- 
-Treasure Chest - (12.5% Adrenaline) A Treasure Chest appears. The first user to type 'treasure' will receive the Treasure Key to open it. !treasure will unlock it and you will receive a random item.
-
-Haunted Chest - (25% Adrenaline) A Haunted Chest appears. The first user to type 'haunted' will receive the Haunted Key to open it. !haunted will unlock it and you will receive a random item.
-
-Sunken Chest - (45% Adrenaline) A Sunken Chest appears. The first user to type 'sunken' will receive the Sunken Key to open it. !sunken will unlock it and you will receive a random item.
-
-Magic Chest - (70% Adrenaline) A Magic Chest appears. The first user to type 'magic' will receive the Magic Key to open it. !magic will unlock it and you will receive a random item.
-
-Crystal Chest - (85% Adrenaline) A Crystal Chest appears. The first user to type 'crystal' will receive the Crystal Key to open it. !crystal will unlock it and you will receive a random item.
-
-Devil's Chest - (100% Adrenaline) A Devil's Chest appears. The first user to type 'devil' will receive the Devil's Key to open it. !devil will unlock it and you will receive a random item.
-
-Unlimited YouTube - (100% Adrenaline) First user to type 'youtube' in the chat will be able to add as many desired tracks within 5 minutes.
-
-Unlimited Blackjack - (100% Adrenaline) First user to type 'blackjack' in the chat will be able to play as many Blackjack hands as they can within 5 minutes.
-
-(Seasonal Event) Easter Egg - (100% Adrenaline) The Easter Bunny has been spotted! The first member to type 'bunny' in the chatbox will receive the Easter Egg! After obtaining the Easter Egg the user then types !egg and opens it.
-
-(Seasonal Event) Halloween Treat - (100% Adrenaline) A piece of candy has been spotted! The first member to type 'treat' will obtain it!  After obtaining the Halloween Treat the user then types !treat and consumes it.
- 
-(Seasonal Event) Santa - (100% Adrenaline) Santa appears flying overhead and the first user to type "santa" in the chat will obtain Santa's Gift. After obtaining Santa's gift the user then types !gift and opens it.
-
-(Seasonal Event) Birthday - (0% Adrenaline) Birthday Balloons starts to float away! The first member to type "balloon" in the chatbox will catch for an extra Birthday Gift! (Everyone gets one gift during this, but catcher gets two.) (Birthday User gets 24 + 1 after it tells you to do it again.)
- 
-Dropped Items - If a player leaves the room without using one or more of the following items in Inventory: [Instant Youtube, Instant Blackjack, Star Fragments, Hell's Comet Fragments, Genie's Lamp, Book & Treasure Key], they will be dropped in the chatbox where any Member can type 'take' to obtain them.
- 
-Skill Assist - (25% Adrenaline) A player is able to be assisted in the skill they are working on! The first user to type 'assist' in the chatbox within 60 seconds will assist them and earn XP in their skill!
- 
-Skill Rest - (-25% Adrenaline) A Player has grown tired skilling and must type 'rest' in the chatbox within 60 seconds to avoid fatigue which results in a Adrenaline loss if 25% or over and if not an XP loss.
- 
----------------------------------------------------------------------------------------------------------------------------------------
 (prefix)mi or (prefix)ytinfo - Shows details of what's currently playing. - Track title, Elapsed time, Time remaining, Playlist tracks and track index.
 
 (prefix)info or (prefix)playlist or (prefix)pl - Shows the next tracks in the playlist.
@@ -292,6 +241,14 @@ Skill Rest - (-25% Adrenaline) A Player has grown tired skilling and must type '
 (prefix)votes - Shows how many required votes for a normal vote to pass and a moderator vote to pass at that exact moment. Very Idle users and guests are not counted when voting!
 
 (prefix)attendance - Shows how much time you've spent on camera and how much time within the room. (Discontinued)
+
+(prefix)ge (prefix)price (item) - Fetch OSRS Grand Exchange price for given item.
+
+(prefox)osrs (player) (target) - Search for OSRS stats or boss kill count of given player.
+
+(prefix)wiki (target) - Search OSRS Wiki for given target.
+
+(prefix)rsn (username) - Check RS3 Runemetrics of desired user.
  
 (prefix)stats or (prefix)stats (username) - Shows your stats or stats of desired user.
  
@@ -307,11 +264,11 @@ Skill Rest - (-25% Adrenaline) A Player has grown tired skilling and must type '
  
 (prefix)skill - Toggle use your Infinity Auto-Skill after you start training a skill you are 126 in!
 
-(prefix)xp (skill) - Toggle your Infinity Auto-Skill after you start training a skill you are 126 in and begin to Auto-Skill! Skill Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+(prefix)xp (skill) - Toggle your Infinity Auto-Skill after you start training a skill you are 126 in and begin to Auto-Skill! Skill Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
  
 (prefix)total (username)(skill)/none or (prefix)level (username)(skill)/none - View stats of yourself, users or target skill!
  
-(prefix)rank or (prefix)ranks - Skill Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving. Ranks 1-3 will display in selected category. Each rank having a title upon entrance.
+(prefix)rank or (prefix)ranks - Skill Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing! Ranks 1-3 will display in selected category. Each rank having a title upon entrance.
  
 (prefix)fishing or (prefix)fish - Start Fishing highest tier.
  
@@ -343,6 +300,36 @@ Skill Rest - (-25% Adrenaline) A Player has grown tired skilling and must type '
 
 (prefix)thieving or (prefix)thieve or (prefix)thief - Start thieving highest tier.
 
+(prefix)divination or (prefix)div - Start gathering from highest tier object.
+
+(prefix)starcrafting or (prefix)starcraft - Begin Starcrafting highest tier.
+
+(prefix)astronomy or (prefix)astro - Begin observing highest tier object.
+
+(prefix)ranching or (prefix)ranch - Start tending to highest tier animal.
+
+(prefix)butchering or (prefix)butcher - Start butchering to highest tier animal.
+
+(prefix)invention or (prefix)invent - Start Inventing highest tier of learned object.
+
+(prefix)engineering or (prefix)engineer - Start Engineering highest tier of learned object.
+
+(prefix)salvaging or (prefix)salvage - Start Salvaging highest tier of learned object.
+
+(prefix)archaeology or (prefix)arch - Start to excavate highest tier area.
+
+(prefix)cartography or (prefix)cart - Start to map highest tier area.
+
+(prefix)dungeoneering or (prefix)dungeon - Start to explore highest tier area.
+
+(prefix)inscription or (prefox)inscript - Begin writing within highest tier.
+
+(prefix)foraging or (prefix)forage - Begin to forage for highest tier.
+
+(prefix)medic or (prefix)med - Start treating highest tier issue.
+
+(prefix)sailing or (prefix)sail - Begin Sailing in highest tier craft.
+
 (prefix)pk - Join the ongoing Battle Royale for a gain of PvP Points to use towards the PvP shop items! Entering these fights opens you to the ability to have the PvP shop usable on you until next Battle Royale! Potions, PvP items, Prayer & Pets count towards the fight.
 
 (prefix)pks (prefix)pkers (prefix)pking - Shows the current active Player Killers that are open to attacks from PvP shop items.
@@ -363,37 +350,61 @@ Skill Rest - (-25% Adrenaline) A Player has grown tired skilling and must type '
 
 (prefix)events - Shows which random events are up or not. (Y = Yes & N = No)
  
-(prefix)genie - If you have a Genie's Lamp you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+(prefix)genie - If you have a Genie's Lamp you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
  
-(prefix)book - If you have a Book of Knowledge you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+(prefix)book - If you have a Book of Knowledge you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
+
+(prefix)stolen - If you have a Stolen Lamp you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
  
-(prefix)heart - If you have a Devil's Heart you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+(prefix)heart - If you have a Devil's Heart you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
 
-(prefix)frozen - If you have a Frozen Lamp you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+(prefix)frozen - If you have a Frozen Lamp you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
 
-(prefix)volcano - If you have a Smouldering Lamp you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+(prefix)volcano - If you have a Smouldering Lamp you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
 
-(prefix)alien - If you have a Crystal Lamp you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility or Thieving.
+(prefix)prince - If you have a Prince's Lamp you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
+
+(prefix)astronaut - If you have a Astronaut's Lamp you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
+
+(prefix)angel - If you have a Angel's Lamp you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
+
+(prefix)alien - If you have a Crystal Lamp you can use it in a skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
+
+(prefix)moon - If you have Moon Fragments you can use it and receive a random amount of Shards or Gold if user has Infinity Shard.
+
+(prefix)sun - If you have Sun's Solar Wave you can use it and receive a random amount of Shards or Gold if user has Infinity Shard.
  
-(prefix)star - If you have Star Fragments you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (1-10)
+(prefix)star - If you have Star Fragments you can use it and receive a random amount of Shards or Gold if user has Infinity Shard.
  
-(prefix)comet - If you have Hell's Comet Fragments you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (10-25)
+(prefix)comet - If you have Hell's Comet Fragments you can use it and receive a random amount of Shards or Gold if user has Infinity Shard.
  
-(prefix)galaxy - If you have Hell's Galaxy Debris you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (10-50)
+(prefix)galaxy - If you have Hell's Galaxy Debris you can use it and receive a random amount of Shards or Gold if user has Infinity Shard.
 
-(prefix)cyclone - If you have Asteroid Cyclone Debris you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (10-75)
+(prefix)cyclone - If you have Asteroid Cyclone Debris you can use it and receive a random amount of Shards or Gold if user has Infinity Shard.
 
-(prefix)rocket - If you have Hell's Rocket Pass you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (10-100)
+(prefix)rocket - If you have Hell's Rocket Pass you can use it and receive a random amount of Shards or Gold if user has Infinity Shard.
 
-(prefix)saturn - If you have Saturn Debris you can use it and receive a random amount of Shards or Gold if user has Infinity Shard. (25-100)
+(prefix)saturn - If you have Saturn Debris you can use it and receive a random amount of Shards or Gold if user has Infinity Shard.
+
+(prefix)stars - If you have Twin Stars Fragments you can use it and receive a random amount of Shards or Gold if user has Infinity Shard.
+
+(prefix)white - If you have White Star Fragments you can use it and receive a random amount of Shards or Gold if user has Infinity Shard.
  
 (prefix)treasure - If you have a Treasure Key you can use it and receive a random item.
 
+(prefix)undead - If you have a Undead Key you can use it and receive a random item.
+
 (prefix)haunted - If you have a Haunted Key you can use it and receive a random item.
+
+(prefix)robotic - If you have a Robotic Key you can use it and receive a random item.
+
+(prefix)enchanted - If you have a Enchanted Key you can use it and receive a random item.
 
 (prefix)sunken - If you have a Sunken Key you can use it and receive a random item.
 
 (prefix)magic - If you have a Magic Key you can use it and receive a random item.
+
+(prefix)evil - If you have a Evil Key you can use it and receive a random item.
 
 (prefix)crystal - If you have a Crystal Key you can use it and receive a random item.
 
@@ -410,17 +421,118 @@ Skill Rest - (-25% Adrenaline) A Player has grown tired skilling and must type '
 (prefix)bag - If you have a Gift Bag you can use this command to open it and obtain the gifts!
  
 (prefix)quests - Check quests (Earn 99K per Level 99 upon confirmation & 1337K for Max)! (PM Bot you hit 99)
+
+- * - Random Events - * -
+*Random Events use no prefix.
+
+Genie - (10% Adrenaline) A Genie will appear in the chat every so often. The first user to type 'genie' will obtain the Genie's Lamp | they have to !genie skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
  
-- * - Note - * -
-Damage - These skills involve fighting in Combat - Attack, Strength, Defence, Ranged, Magic & Prayer
-Gathering - These skills involve gathering raw materials (resources) directly from the source. - Fishing, Mining, Woodcutting, Hunter & Farming.
-Artisan - These skills involve using resource items to create other, generally more useful items. - Cooking, Smithing, Firemaking, Fletching, Construction, Crafting, Herblore.
-Survivalist - These skills help the player in various different ways. Slayer, Agility & Thieving.
-Luck - Chance at a lucky drop from a Boss Fight: Strong Damage Potion, Strong Gatherer Potion, Strong Artisan Potion, Strong Survivalist Potion, Auto-Rest & Enhanced Active (1) hour & a random Chest Key. (Gold equivalent if own any 1 hour item or if you have all keys in inventory.)
+Master of Trades - (20% Adrenaline) A Master of Trades will appear in the chat every so often. The first user to type 'book' will obtain his Book of Knowledge | they then have to !book skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
+
+Police Officer - (30% Adrenaline) A Police Officer has shown up offering an unclaimed Stolen Lamp! The first member to type 'stolen' in the chatbox will obtain the Stolen Lamp | they then have to !stolen skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
+ 
+Devil's Heart - (40% Adrenaline) A Devil's Heart has fallen upon the chat room! The first user to type 'heart' in the chatbox will obtain the Devil's Heart to consume! | they then have to !heart skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
+
+Mount Fuji - (50% Adrenaline) Sunlight shines down and reflects lights off a Frozen Lamp! The first user to type 'frozen' in the chatbox will obtain the Frozen Lamp! | they then have to !frozen skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
+
+Hell's Volcano - (60% Adrenaline) Hell's Volcano has erupted and a Smouldering Lamp has appeared! The first user to type 'volcano' in the chatbox will obtain the Smouldering Lamp! | they then have to !volcano skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
+
+Hell's Prince - (70% Adrenaline) Hell's Prince has arrived and is donating a Prince's Lamp! The first member to type 'prince' in the chatbox will obtain the Prince's Lamp! | they then have to !prince skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
+
+Astronaut - (80% Adrenaline) An Astronaut has landed and is giving away his Astronaut's Lamp! The first member to type 'astronaut' in the chatbox will obtain the Astronaut's Lamp! | they then have to !astronaut skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
+
+Angel - (90% Adrenaline) A fallen Angel appears and gifts their Angel's Lamp to ascend! The first member to type 'angel' in the chatbox will obtain the Angel's Lamp! | they then have to !angel skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
+
+Alien - (100% Adrenaline) An Alien appeared offering a Crystal Lamp! The first user to type 'alien' in the chatbox will obtain the Crystal Lamp! | they then have to !alien skill choice. Choices: Prayer, Summoning, Fishing, Cooking, Mining, Smithing, Woodcutting, Firemaking, Fletching, Construction, Hunter, Crafting, Farming, Herblore, Slayer, Agility, Thieving, Divination, Starcrafting, Astronomy, Ranching, Butchering, Invention, Engeineering, Salvaging, Archaeology, Cartography, Dungeoneering, Inscription, Foraging, Medic or Sailing!
+
+Rainbow - (10% Adrenaline) A rainbow will appear in the chat every so often. The first user to type 'gold' will loot the Pot of Gold at the end of it! They will loot it for a random amount of gold.
+
+Guard - (20% Adrenaline) A Guard shows up offering unclaimed Pound! The first user to type 'pound' will receive it! They will loot it for a random amount of gold.
+
+Princess - (30% Adrenaline) A Princess donates her Euro as she passes! The first user to type 'euro' will receive it! They will loot it for a random amount of gold.
+
+Scientist - (40% Adrenaline) A Scientist offers his Dollar for a quick assistance! The first user to type 'dollar' will receive it! They will loot it for a random amount of gold.
+
+Blind Man - (50% Adrenaline) A Blind Man needs assistance and is offering his Credit Card for it! The first user to type 'card' will receive it! They will loot it for a random amount of gold.
+ 
+Flying Money - (60% Adrenaline) Flying Money will randomly appearing in the chat. The first user to type 'money' will obtain it and be given a random amount of gold.
+ 
+Moneybag - (70% Adrenaline) A Moneybag slips open every now and then. The first member to type 'loot' will loot what fell out! They will loot it for a random amount of gold.
+
+Hell's Bank - (80% Adrenaline) Hell's bank is being robbed! The first member to type 'bank' in the chatbox will join the heist! They will loot it for a random amount of gold.
+
+Airdrop - (90% Adrenaline) There is an incoming Airdrop! The first member to type 'airdrop' in the chatbox will obtain it! They will loot it for a random amount of gold.
+
+Diamond - (100% Adrenaline) A Diamond has been spotted! The first member to type 'diamond' in the chatbox will obtain it! They will loot it for a random amount of gold.
+
+Moon - (10% Adrenaline) The Moon has appeared overhead as a piece crashes down! The first user to type 'moon' will obtain the Moon Fragments! Moon Fragments are then smashed with the command !moon for a random amount of Shards or Gold if user has Infinity Shard.
+
+Sun - (20% Adrenaline) A Giant Solar Wave erupts from the Sun! The first user to type 'sun' will harness the Solar Waves! Solar Waves are then broken up with the command !sun for a random amount of Shards or Gold if user has Infinity Shard.
+ 
+Shooting Star - (30% Adrenaline) A Shooting Star will appear overhead every so often. The first user to type 'star' will obtain the Star Fragments! Star Fragments are then smashed with the command !star for a random amount of Shards or Gold if user has Infinity Shard.
+ 
+Hell's Comet - (40% Adrenaline) Hell's Comet will appear overheard every so often. The first user to type 'comet' will obtain the Hell's Comet Fragments! Fragments are then broken with the command !comet for a random amount of Shards or Gold if user has Infinity Shard.
+ 
+Hell's Galaxy - (50% Adrenaline) Something crashes into Hell's Galaxy allowing the first user to type 'galaxy' to obtain the Hell's Galaxy Debris! Debris are then used with !galaxy for a random amount of Shards or Gold if user has Infinity Shard.
+
+Asteroid Cyclone - (60% Adrenaline) An Asteroid Cyclone has developed in Hell's Galaxy! The first member to type 'cyclone' in the chatbox will obtain the Asteroid Cyclone Debris! The debris is then used with !cyclone for a random amount of Shards or Gold if user has Infinity Shard.
+
+Hell's Rocket - (70% Adrenaline) There is an upcoming Hell's Rocket launching! The first member to type 'rocket' in the chatbox will obtain the Hell's Rocket Pass! The Rocket Pass is then used with !rocket for a random amount of Shards or Gold if user has Infinity Shard.
+
+Saturn - (80% Adrenaline) Saturn Debris has been spotted overhead! The first member to type 'saturn' in the chatbox will obtain the Saturn Debris! The debris is then used with !saturn for a random amount of Shards or Gold if user has Infinity Shard.
+
+Twin Stars - (90% Adrenaline) Twin Stars collide overhead and a piece is obtainable! The first member to type 'stars' in the chatbox will receive the Twin Stars Fragments! The fragments are then used with !stars for a random amount of Shards or Gold if user has Infinity Shard.
+
+White Star - (100% Adrenaline) A White Star chunk is broken off by miners and is up for grabs The first member to type 'white' in the chatbox will obtain the White Star Fragments! The fragments are then used with !white for a random amount of Shards or Gold if user has Infinity Shard.
+ 
+Treasure Chest - (10% Adrenaline) A Treasure Chest appears. The first user to type 'treasure' will receive the Treasure Key to open it. !treasure will unlock it and you will receive a random item.
+
+Undead Chest - (20% Adrenaline) A Undead Chest appears. The first user to type 'undead' will receive the Undead Key to open it. !undead will unlock it and you will receive a random item.
+
+Haunted Chest - (30% Adrenaline) A Haunted Chest appears. The first user to type 'haunted' will receive the Haunted Key to open it. !haunted will unlock it and you will receive a random item.
+
+Robotic Chest - (40% Adrenaline) A Robotic Chest appears. The first user to type 'robotic' will receive the Robotic Key to open it. !robotic will unlock it and you will receive a random item.
+
+Enchanted Chest - (50% Adrenaline) A Enchanted Chest appears. The first user to type 'enchanted' will receive the Enchanted Key to open it. !enchanted will unlock it and you will receive a random item.
+
+Sunken Chest - (60% Adrenaline) A Sunken Chest appears. The first user to type 'sunken' will receive the Sunken Key to open it. !sunken will unlock it and you will receive a random item.
+
+Magic Chest - (70% Adrenaline) A Magic Chest appears. The first user to type 'magic' will receive the Magic Key to open it. !magic will unlock it and you will receive a random item.
+
+Evil Chest - (80% Adrenaline) A Evil Chest appears. The first user to type 'evil' will receive the Evil Key to open it. !evil will unlock it and you will receive a random item.
+
+Crystal Chest - (90% Adrenaline) A Crystal Chest appears. The first user to type 'crystal' will receive the Crystal Key to open it. !crystal will unlock it and you will receive a random item.
+
+Devil's Chest - (100% Adrenaline) A Devil's Chest appears. The first user to type 'devil' will receive the Devil's Key to open it. !devil will unlock it and you will receive a random item.
+
+Unlimited YouTube - (100% Adrenaline) First user to type 'youtube' in the chat will be able to add as many desired tracks within 5 minutes.
+
+Unlimited Blackjack - (100% Adrenaline) First user to type 'blackjack' in the chat will be able to play as many Blackjack hands as they can within 5 minutes.
+
+(Seasonal Event) Easter Egg - (100% Adrenaline) The Easter Bunny has been spotted! The first member to type 'bunny' in the chatbox will receive the Easter Egg! After obtaining the Easter Egg the user then types !egg and opens it.
+
+(Seasonal Event) Halloween Treat - (100% Adrenaline) A piece of candy has been spotted! The first member to type 'treat' will obtain it!  After obtaining the Halloween Treat the user then types !treat and consumes it.
+ 
+(Seasonal Event) Santa - (100% Adrenaline) Santa appears flying overhead and the first user to type "santa" in the chat will obtain Santa's Gift. After obtaining Santa's gift the user then types !gift and opens it.
+
+(Seasonal Event) Birthday - (0% Adrenaline) Birthday Balloons starts to float away! The first member to type "balloon" in the chatbox will catch for an extra Birthday Gift! (Everyone gets one gift during this, but catcher gets two.) (Birthday User gets 24 + 1 after it tells you to do it again.)
+ 
+Dropped Items - If a player leaves the room without using one or more of the following items in Inventory: [Instant Youtube, Instant Blackjack, Star Fragments, Hell's Comet Fragments, Genie's Lamp, Book & Treasure Key], they will be dropped in the chatbox where any Member can type 'take' to obtain them.
+ 
+Skill Assist - (20% Adrenaline) A player is able to be assisted in the skill they are working on! The first user to type 'assist' in the chatbox within 60 seconds will assist them and earn XP in their skill!
+ 
+Skill Rest - (20% Adrenaline or XP loss) A Player has grown tired skilling and must type 'rest' in the chatbox within 60 seconds to avoid fatigue which results in a Adrenaline loss if 20% or over and if not an XP loss.
+ 
+- * - HellScape - * -
+Combat - These skills involve fighting in Combat - Attack, Strength, Defence, Ranged, Magic, Prayer & Summoning.
+Gathering - These skills involve gathering raw materials (resources) directly from the source. - Fishing, Mining, Woodcutting, Hunter, Farming, Divination, Ranching, Invention, Archaeology & Foraging.
+Artisan - These skills involve using resource items to create other, generally more useful items. - Cooking, Smithing, Firemaking, Fletching, Construction, Crafting, Herblore, Starcrafting, Butchering & Engineering.
+Survivalist - These skills help the player in various different ways. Slayer, Agility, Thieving, Astronomy, Salvaging, Cartography, Dungeoneering, Inscription, Medic & Sailing.
+Luck - Chance at a lucky drop from a Boss Fight: All Strong Potions, Auto-Rest & Enhanced Active (1) hour & a random Chest Key. (Gold equivalent if own any 1 hour item or if you have all keys in inventory.)
 Resistance - Reduced Adrenaline draining.
 Armor - Chance to reduce damage taken in PvP.
 Focus - Chance to swing first in PvP
-Endurance - Chance to dodge an attack in PvP
+Dodge - Chance to dodge an attack in PvP
 - * - | - * -
  
 (prefix)shop or (prefix)buy - View the shop categories by typing no target. If target in Categories: [Cooldown, Potion, Weapons, Cape, Necklace, Glove, Ring, Helmet, Armor, Boot, Auto, Infinite & Misc] If target is a number(item) within one of the categories you will attempt to purchase.
@@ -451,9 +563,9 @@ Endurance - Chance to dodge an attack in PvP
 24. Weak Focus Potion (4,166.665 per hour) - 5% Chance to swing first in PvP. (Expires in target hour(s))
 25. Medium Focus Potion (8,333.33 per hour) - 10% Chance to swing first in PvP. (Expires in target hour(s))
 26. Strong Focus Potion (16,666.66 per hour) - 20% Chance to swing first in PvP. (Expires in target hour(s))
-27. Weak Endurance Potion (4,166.665 per hour) - 5% Chance to dodge an attack in PvP. (Expires in target hour(s))
-28. Medium Endurance Potion (8,333.33 per hour) - 10% Chance to dodge an attack in PvP. (Expires in target hour(s))
-29. Strong Endurance Potion (16,666.66 per hour) - 20% Chance to dodge an attack in PvP. (Expires in target hour(s))
+27. Weak Dodge Potion (4,166.665 per hour) - 5% Chance to dodge an attack in PvP. (Expires in target hour(s))
+28. Medium Dodge Potion (8,333.33 per hour) - 10% Chance to dodge an attack in PvP. (Expires in target hour(s))
+29. Strong Dodge Potion (16,666.66 per hour) - 20% Chance to dodge an attack in PvP. (Expires in target hour(s))
 30. Hunter Bow 5M - 5% Damage (Kept in Inventory)
 31. Rapier 5M - 5% Damage (Kept in Inventory)
 32. Staff of Darkness 5M - 5% Damage (Kept in Inventory)
@@ -484,9 +596,9 @@ Endurance - Chance to dodge an attack in PvP
 57. Skeletal Armor 5M - 5% Armor (Kept in Inventory)
 58. Death Lotus Robes 10M - 10% Armor (Kept in Inventory)
 59. Lucifer's Shroud 20M - 20% Armor (Kept in Inventory)
-60. Eternal Boots 5M - 5% Endurance (Kept in Inventory)
-61. Ragefire Boots 10M - 10% Endurance (Kept in Inventory)
-62. Boots of Torment 20M - 20% Endurance (Kept in Inventory)
+60. Eternal Boots 5M - 5% Dodge (Kept in Inventory)
+61. Ragefire Boots 10M - 10% Dodge (Kept in Inventory)
+62. Boots of Torment 20M - 20% Dodge (Kept in Inventory)
 63. Anti-Auto-Ignore (4,167 per hour) - Auto-Ignore avoidance. (Expires in target hour(s))
 64. Auto-XP (16,666.66 per hour) - Auto-XP all Genie's Lamp, Book of Knowledge, Devil's Heart, Frozen Lamp, Smouldering Lamp & Crystal Lamp instantly upon obtaining. (Expires in target hour(s))
 65. Auto-Smash (16,666.66 per hour) - Auto-Smash all Shooting Stars, Hell's Comet, Hell's Galaxy, Asteroid Cyclone Debris, Hell's Rocket Pass & Saturn Debris instantly upon obtaining. (Expires in target hour(s))
@@ -520,20 +632,23 @@ Endurance - Chance to dodge an attack in PvP
 93. Name Register 1M - Register a name to your account.
 94. Storage Bag 20M - Stores items you would normally drop by leaving the room in your Storage Bag to be obtained again when you enter next time.
 95. Adrenaline Shot (833.3 per 1%) - Gain Adrenaline.
-96. Devil's Key 126K - Obtain a Devil's Key.
-97. Gift Bag - 250K - Obtain a Gift Bag to open by using the command "!bag".
-98. Companion Pet (20M per 1%) - A Companion Pet helps you with your Gathering skills. You gain Gold and XP based off your Pet Bonus.
-99. Support Pet (20M per 1%) - A Support Pet helps you with your Artisan skills. You gain Gold and XP based off your Pet Bonus.
-100. Follower Pet (20M per 1%) - A Follower Pet helps you with your Survivalist skills. You gain Gold and XP based off your Pet Bonus.
-101. Legendary Pet (20M per 1%) - A Legendary Pet helps you with your Combat (Boss & PvP). You gain Gold and XP based off your Pet Bonus or deal bonus damage in PvP.
-102. Deflect Damage (Target) (Point) - (1) PvP Point per Deflect Damage spent towards user. You gain protection from anythiing in the PvP shop being used against you.
-103. Sap Deflect (Target) (Point) - (1) PvP Point per Sap Deflect bought against user. You drain target user of their Deflect Damage to be able to use PvP actions against them once they have (0) Deflect Damage.
-104. Respawn (Target) (Death) (Point) - (5) PvP point spent to reduce your time spent Camblock or Muted.
-105. Camblock (Target) (Point) - Random User: (5) | Target User: (10) - Choose either "random" or target user and each Point you put in it is 5 minutes they are camblocked.
-106. Mute (Target) (Point) - Random User: (5) | Target User: (10) - Choose either "random" or target user and each Point you put in it is 5 minutes they are muted.
-107. Close (target) - Random User: (2.5) | Target User: (5) - Choose either "random" or target user and close their camera.
-108. Leech Adrenaline (Target) - Random User: (2.5) | Target User: (5) - Choose either "random" or target user and you take the Adrenaline gain they would have. A user can have up to 4 users they Leech Adrenaline of. (Expires in target hour or until a Deflect Damage point is gained)
-109. Rob (Target) - Random User: (2.5) | Target User: (5) - Choose either "random" or target user and take all the droppable items they have in their inventory. 
+96. Adrenaline Bonus (1M per 1%) - Adrenaline limit of 100 is raised.
+97. Devil's Key 126K - Obtain a Devil's Key.
+98. Gift Bag - 250K - Obtain a Gift Bag to open by using the command "!bag".
+99. Op (days) (1.5M per day) - Become an Operator or extend current Op status for target days.
+100. Mod (days) (3M per day) - Become a Moderator or extend current Mod status for target days. 
+101. Companion Pet (20M per 1%) - A Companion Pet helps you with your Gathering skills. You gain Gold and XP based off your Pet Bonus.
+102. Support Pet (20M per 1%) - A Support Pet helps you with your Artisan skills. You gain Gold and XP based off your Pet Bonus.
+103. Follower Pet (20M per 1%) - A Follower Pet helps you with your Survivalist skills. You gain Gold and XP based off your Pet Bonus.
+104. Legendary Pet (20M per 1%) - A Legendary Pet helps you with your Combat (Boss & PvP). You gain Gold and XP based off your Pet Bonus or deal bonus damage in PvP.
+105. Deflect Damage (Target) (Point) - (1) PvP Point per Deflect Damage spent towards user. You gain protection from anythiing in the PvP shop being used against you.
+106. Sap Deflect (Target) (Point) - (1) PvP Point per Sap Deflect bought against user. You drain target user of their Deflect Damage to be able to use PvP actions against them once they have (0) Deflect Damage.
+107. Respawn (Target) (Death) (Point) - (5) PvP point spent to reduce your time spent Camblock or Muted.
+108. Camblock (Target) (Point) - Random User: (5) | Target User: (10) - Choose either "random" or target user and each Point you put in it is 5 minutes they are camblocked.
+109. Mute (Target) (Point) - Random User: (5) | Target User: (10) - Choose either "random" or target user and each Point you put in it is 5 minutes they are muted.
+110. Close (target) - Random User: (2.5) | Target User: (5) - Choose either "random" or target user and close their camera.
+111. Leech Adrenaline (Target) - Random User: (2.5) | Target User: (5) - Choose either "random" or target user and you take the Adrenaline gain they would have. A user can have up to 4 users they Leech Adrenaline of. (Expires in target hour or until a Deflect Damage point is gained)
+112. Rob (Target) - Random User: (2.5) | Target User: (5) - Choose either "random" or target user and take all the droppable items they have in their inventory. 
  
               ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
               │                                               L4 -  Op                                                    |
@@ -705,7 +820,17 @@ Endurance - Chance to dodge an attack in PvP
  
 (prefix)announcement - View the current announcement message, how often it is displayed & the announcer of said message.
  
-(prefix)clrblackjack or (prefix)clrbj - Clears the ongoing hand to start a new round. To be used when dunce doesn't finish hand.
+(prefix)clrblackjack or (prefix)clrbj - Clears the ongoing Blackjack hand.
+
+(prefix)clrpoker or (prefix)clrvideopoker - Clears the ongoing Video Poker hand.
+
+(prefix)clrconnect4 or (prefix)clrc4 - Clears the ongoing Connect 4 game.
+
+(prefix)clrt or (prefix)clrttt or (prefix)clrtic or (prefix)clrtac or (prefix)clrtoe - Clear ongoing Tic-Tac-Toe game.
+
+(prefix)clrwordle - Clear ongoing Wordle game.
+
+(prefix)reddit - Scrape OSRS Reddit every 1 minute for the latest post, if any.
  
               ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
               │                                               L2 -  Super Mod                                             |
@@ -730,6 +855,8 @@ Endurance - Chance to dodge an attack in PvP
 (prefix)leave+ - Leave notification toggle on for protect -> owner accounts.
  
 (prefix)recaptcha - Toggles if users can solve a reCAPTCHA code to cam themselves within 1 minute.
+
+(prefix)celebrate (nickname) (account) - Set the Birthday event for a user..
  
               ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗
               │                                               L1 -  Admin                                                 |
